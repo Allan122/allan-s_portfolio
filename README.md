@@ -1,4 +1,4 @@
-# Allan's Portfolio
+# Data Analytics Portfolio
 
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
