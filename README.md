@@ -145,3 +145,7 @@ This repository contains data analysis scripts and insights derived from a datas
 The dataset encompasses various aspects of hotel bookings, including reservation details, customer demographics, booking patterns, and more.
 
 Link to Dataset: https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad1z/view?usp=sharing
+
+## Overview
+![Uploading Screenshot 2024-03-11 132511.jpg…]()
+
