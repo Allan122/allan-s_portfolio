@@ -147,5 +147,5 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 Link to Dataset: https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad1z/view?usp=sharing
 
 ## Overview
-![Uploading Screenshot 2024-03-11 132511.jpg…]()
+![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
 
