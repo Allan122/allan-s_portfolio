@@ -1,5 +1,15 @@
 # Data Analytics Portfolio
 
+
+# Articles
+## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
+(https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing)
+
+# Casestudy
+## Linkedin - Transforming Professional Networking
+### Document - (https://docs.google.com/document/d/1kkMPAKqZTsQqItZLloIfIBuhyjgBP5JkEJjB6u93s14/edit?usp=sharing)
+### Video Presentation - (https://drive.google.com/file/d/1ChlHslb5HWz51t1FWDtr8XEXHoim-DIM/view?usp=sharing)
+
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
 (https://github.com/Allan122/TabNetflixDataset.git)
