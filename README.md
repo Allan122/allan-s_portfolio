@@ -5,11 +5,13 @@
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
 (https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing)
 
+
 # Casestudy
 ## Linkedin - Transforming Professional Networking
  Document - (https://docs.google.com/document/d/1kkMPAKqZTsQqItZLloIfIBuhyjgBP5JkEJjB6u93s14/edit?usp=sharing)
 
  Video Presentation - (https://drive.google.com/file/d/1ChlHslb5HWz51t1FWDtr8XEXHoim-DIM/view?usp=sharing)
+
 
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
@@ -133,6 +135,7 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 ![Housing dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/974eb518-2f82-4d9e-8a7d-a58bdf6f5740)
 
 
+
 # Python Projects using Colab/ Jupyter Notebook
 ## Project 1: Global Terrorism Dataset
 (https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git)
@@ -145,6 +148,7 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 (https://github.com/Allan122/CompProgram.git)
 
 This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
+
 
 
 # SQL Project
