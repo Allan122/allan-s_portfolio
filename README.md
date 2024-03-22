@@ -5,6 +5,8 @@
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
 (https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing)
 
+## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
+(https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing)
 
 # Casestudy
 ## Linkedin - Transforming Professional Networking
@@ -137,18 +139,26 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 
 
 # Python Projects using Colab/ Jupyter Notebook
-## Project 1: Global Terrorism Dataset
+## Project 1: Introduction to Computer Programming
+(https://github.com/Allan122/CompProgram.git)
+
+This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
+
+
+## Project 2: Global Terrorism Dataset
 (https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git)
 
 **Global Terrorism Dataset:**
 
 In this project, we analyze the Global Terrorism Database (GTD) to uncover patterns, trends, and insights into terrorism incidents worldwide. Leveraging Python and data analysis techniques in Jupyter Notebook, we explore key factors such as attack types, weapons used, target locations, perpetrators, and trends over time. Through interactive visualizations and statistical analysis, we aim to gain a deeper understanding of the global terrorism landscape and inform counterterrorism efforts and policy-making.
 
-## Project 2: Introduction to Computer Programming
-(https://github.com/Allan122/CompProgram.git)
 
-This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
+## Project 3: Customer Churn Prediction
+(https://drive.google.com/file/d/1LMU5DmMIk-c2tpk9e05umJkPit7MzQ00/view?usp=sharing)
 
+**Customer Churn Prediction**
+
+In this project, we analyze the Customer Churn Prediction. Through the analysis of historical data and the application of advanced machine learning algorithms, business can identity patterns and indicators that signal potential churn, enabling them to take actions. Customer Churn Prediction is a vital step of maintaining business sustainability and growth in today's competitive landscape. By accurately forecasting which customers are likely to churn, businesses can proactively implement retention strategies, thereby reducing churn rates and preserving revenue streams.
 
 
 # SQL Project
@@ -163,4 +173,6 @@ Link to Dataset: https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad
 
 ## Overview
 ![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
+
+
 
