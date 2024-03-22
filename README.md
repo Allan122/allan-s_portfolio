@@ -154,7 +154,7 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 
 
 ## Project 3: Customer Churn Prediction
-(https://drive.google.com/file/d/1LMU5DmMIk-c2tpk9e05umJkPit7MzQ00/view?usp=sharing)
+(https://github.com/Allan122/CustomerChurnPrediction.git)
 
 **Customer Churn Prediction**
 
