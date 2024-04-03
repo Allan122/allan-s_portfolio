@@ -137,6 +137,20 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 ![Housing dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/974eb518-2f82-4d9e-8a7d-a58bdf6f5740)
 
 
+## Project 6: Global Terrorism Dashboard
+(https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW)
+
+The global terrorism Tableau dashboard provides a comprehensive overview of terrorism incidents worldwide. It includes interactive visualizations such as maps, charts, and graphs that showcase trends, patterns, and hotspots of terrorist activities. Users can filter the data by various parameters such as time, location, type of attack, casualties, and more. The dashboard also supports drill-down capabilities, allowing users to delve deeper into specific regions or incidents for detailed analysis. Overall, the dashboard aims to facilitate data-driven insights and decision-making regarding global terrorism threats.
+
+![Dashboard 2 (1)](https://github.com/Allan122/Mentorness/assets/45638226/3a6270ca-7115-487a-a552-688740af4798)
+
+
+## Project 7: Indian Agricultural Analysis
+(https://github.com/Allan122/Indian-Agriculture-Analysis.git)
+
+The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview of agricultural trends and metrics in India. It includes interactive visualizations such as charts and graphs with real time analysis.
+
+![Indian Agriculture Analysis Dashboard](https://github.com/Allan122/Mentorness/assets/45638226/468d2f31-f127-4ba2-b162-1ee036f54716)
 
 # Python Projects using Colab/ Jupyter Notebook
 ## Project 1: Introduction to Computer Programming
@@ -144,6 +158,7 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 
 This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
 
+![Hello World](https://github.com/Allan122/Mentorness/assets/45638226/75df6965-0b69-433a-abef-8dbd30ea0780)
 
 ## Project 2: Global Terrorism Dataset
 (https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git)
@@ -152,6 +167,7 @@ This Python project demonstrates mastery of fundamental programming concepts inc
 
 In this project, we analyze the Global Terrorism Database (GTD) to uncover patterns, trends, and insights into terrorism incidents worldwide. Leveraging Python and data analysis techniques in Jupyter Notebook, we explore key factors such as attack types, weapons used, target locations, perpetrators, and trends over time. Through interactive visualizations and statistical analysis, we aim to gain a deeper understanding of the global terrorism landscape and inform counterterrorism efforts and policy-making.
 
+![Global Terrorism](https://github.com/Allan122/Mentorness/assets/45638226/e7cba1a6-e6f1-4f54-a66e-88e8e9ca7954)
 
 ## Project 3: Customer Churn Prediction
 (https://github.com/Allan122/CustomerChurnPrediction.git)
@@ -160,6 +176,16 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 
 In this project, we analyze the Customer Churn Prediction. Through the analysis of historical data and the application of advanced machine learning algorithms, business can identity patterns and indicators that signal potential churn, enabling them to take actions. Customer Churn Prediction is a vital step of maintaining business sustainability and growth in today's competitive landscape. By accurately forecasting which customers are likely to churn, businesses can proactively implement retention strategies, thereby reducing churn rates and preserving revenue streams.
 
+![Customer Churn](https://github.com/Allan122/Mentorness/assets/45638226/5f8339c7-14bd-4715-a990-7cf08e7f31e2)
+
+## Project 4:  World Cup 2023 Analysis
+(https://github.com/Allan122/Mentorness.git)
+
+**World Cup 2023**
+
+This project aims to offer valuable insights into the dynamics of the 2023 Cricket World Cup. By dissecting the tournament's data from various angles, we strive to uncover hidden patterns, illuminate standout performances, and provide a deeper understanding of the cricketing spectacle that captivated audiences around the globe. Join us as we unravel the stories etched on the pitch and celebrate the spirit of cricket showcased in the 2023 Cricket World Cup.
+
+![World Cup 2023](https://github.com/Allan122/Mentorness/assets/45638226/8640d8be-7172-4af6-9d78-0950ce6d7b8f)
 
 # SQL Project
 
