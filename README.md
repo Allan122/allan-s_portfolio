@@ -18,7 +18,7 @@
     <div class="center">
         <h1>Data Analytics Portfolio</h1>
         <p class="message">Welcome to My Portfolio! </p> 
-           <p>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
+           <p><b>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</b></p>
     </div>
 </body>
 </html>
@@ -113,13 +113,13 @@
 The Netflix Dashboard is a comprehensive visualization tool built using Tableau, aimed at providing insights into Netflix's content library, user engagement, and performance metrics. It allows stakeholders to gain valuable insights into various aspects of Netflix's operations, enabling data-driven decision-making and strategic planning.
 
 **Key Points:**
-    - **Content Analysis:** Visualize the distribution of content across genres, languages, and release years to understand the diversity and composition of Netflix's content library.
-    - **User Engagement Metrics:** Track key user engagement metrics such as viewing time, binge-watching behavior, and user ratings to gauge the popularity and appeal of different shows and movies.
-    - **Geographical Analysis:** Explore regional variations in content preferences, popularity, and user behavior to tailor content offerings and marketing strategies for different markets.
-    - **Trend Analysis:** Identify trends and patterns in user behavior, content consumption, and platform performance over time to anticipate future trends and adapt business strategies accordingly.
-    - **Recommendation System Evaluation:** Assess the effectiveness of Netflix's recommendation algorithms by analyzing user interactions, preferences, and feedback to enhance personalization and content discovery.
-    - **Performance Metrics:** Track key performance indicators such as subscriber growth, revenue trends, and churn rates to evaluate the overall health and performance of the Netflix platform.
-    - **Competitive Analysis:** Compare Netflix's performance and content offerings with competitors in the streaming industry to identify strengths, weaknesses, and opportunities for differentiation and growth.
+1. **Content Analysis:** Visualize the distribution of content across genres, languages, and release years to understand the diversity and composition of Netflix's content library.
+2. **User Engagement Metrics:** Track key user engagement metrics such as viewing time, binge-watching behavior, and user ratings to gauge the popularity and appeal of different shows and movies.
+3. **Geographical Analysis:** Explore regional variations in content preferences, popularity, and user behavior to tailor content offerings and marketing strategies for different markets.
+4. **Trend Analysis:** Identify trends and patterns in user behavior, content consumption, and platform performance over time to anticipate future trends and adapt business strategies accordingly.
+5. **Recommendation System Evaluation:** Assess the effectiveness of Netflix's recommendation algorithms by analyzing user interactions, preferences, and feedback to enhance personalization and content discovery.
+6. **Performance Metrics:** Track key performance indicators such as subscriber growth, revenue trends, and churn rates to evaluate the overall health and performance of the Netflix platform.
+7. **Competitive Analysis:** Compare Netflix's performance and content offerings with competitors in the streaming industry to identify strengths, weaknesses, and opportunities for differentiation and growth.
 
 ## Overview of my Dashboard:
 ![Netflix with map label](https://github.com/Allan122/allan-s_portfolio/assets/45638226/edc296b0-1a75-4cdb-b852-1954cf2aa191)
