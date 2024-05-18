@@ -1,5 +1,168 @@
 # Data Analytics Portfolio
 
+# Welcome to My Portfolio
+
+## Internships
+
+### Mentorness
+- **Data Analyst** (1 month)
+- **Machine Learning** (1 month)
+
+### The Sparks Foundation
+- **Data Science and Business Analytics** (1 month)
+
+### Prodigy Infotech
+- **Data Science Intern** (1 month)
+
+### CognoRise Infotech
+- **Artificial Intelligence** (1 month)
+
+### Almabetter
+- **15 months**
+
+## Projects
+
+### Mentorness
+
+#### Data Analyst Projects
+1. [Data Analyst Article](#data-analyst-article)
+2. [SQL Hotel Reservation](#sql-hotel-reservation)
+3. [Indian Agriculture](#indian-agriculture)
+
+#### Machine Learning Projects
+1. [Machine Learning Article](#machine-learning-article)
+2. [Customer Churn Prediction](#customer-churn-prediction)
+3. [World Cup 2023](#world-cup-2023)
+
+### The Sparks Foundation
+1. [Prediction using Supervised ML](#prediction-using-supervised-ml)
+2. [Prediction using Unsupervised ML](#prediction-using-unsupervised-ml)
+3. [Exploratory Data Analysis Retail](#exploratory-data-analysis-retail)
+4. [Global Terrorism Dataset](#global-terrorism-dataset)
+5. [Exploratory Data Analysis on Sports IPL](#exploratory-data-analysis-on-sports-ipl)
+6. [Prediction using Decision Tree](#prediction-using-decision-tree)
+7. [Stock Market Prediction](#stock-market-prediction)
+8. [Timeline Analysis - Covid-19](#timeline-analysis-covid-19)
+
+### Prodigy Infotech
+1. [World Bank Population](#world-bank-population)
+2. [Titanic](#titanic)
+3. [Bank](#bank)
+4. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
+5. [Traffic Accident](#traffic-accident)
+
+### CognoRise Infotech
+1. [Tic Tac Toe AI](#tic-tac-toe-ai)
+2. [Ping Pong AI](#ping-pong-ai)
+3. [Twitter Sentiment Analysis](#twitter-sentiment-analysis-cognorise)
+
+### Almabetter
+1. [Introduction to Computer Programming](#introduction-to-computer-programming)
+2. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
+3. [Product Dissection "Case Study"](#product-dissection-case-study)
+4. [Tableau Global Terrorism Dashboard](#tableau-global-terrorism-dashboard)
+5. [Applied Statistics Interview Grind](#applied-statistics-interview-grind)
+6. [Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning](#unsupervised-ml-book-recommendation-system-capstone-end-to-end-machine-learning)
+
+---
+
+## Project Details
+
+### Mentorness
+
+#### Data Analyst Projects
+##### Data Analyst Article
+Details about the Data Analyst Article project.
+
+##### SQL Hotel Reservation
+Details about the SQL Hotel Reservation project.
+
+##### Indian Agriculture
+Details about the Indian Agriculture project.
+
+#### Machine Learning Projects
+##### Machine Learning Article
+Details about the Machine Learning Article project.
+
+##### Customer Churn Prediction
+Details about the Customer Churn Prediction project.
+
+##### World Cup 2023
+Details about the World Cup 2023 project.
+
+### The Sparks Foundation
+##### Prediction using Supervised ML
+Details about the Prediction using Supervised ML project.
+
+##### Prediction using Unsupervised ML
+Details about the Prediction using Unsupervised ML project.
+
+##### Exploratory Data Analysis Retail
+Details about the Exploratory Data Analysis Retail project.
+
+##### Global Terrorism Dataset
+Details about the Global Terrorism Dataset project.
+
+##### Exploratory Data Analysis on Sports IPL
+Details about the Exploratory Data Analysis on Sports IPL project.
+
+##### Prediction using Decision Tree
+Details about the Prediction using Decision Tree project.
+
+##### Stock Market Prediction
+Details about the Stock Market Prediction project.
+
+##### Timeline Analysis - Covid-19
+Details about the Timeline Analysis - Covid-19 project.
+
+### Prodigy Infotech
+##### World Bank Population
+Details about the World Bank Population project.
+
+##### Titanic
+Details about the Titanic project.
+
+##### Bank
+Details about the Bank project.
+
+##### Twitter Sentiment Analysis
+Details about the Twitter Sentiment Analysis project.
+
+##### Traffic Accident
+Details about the Traffic Accident project.
+
+### CognoRise Infotech
+##### Tic Tac Toe AI
+Details about the Tic Tac Toe AI project.
+
+##### Ping Pong AI
+Details about the Ping Pong AI project.
+
+##### Twitter Sentiment Analysis (CognoRise)
+Details about the Twitter Sentiment Analysis project.
+
+### Almabetter
+##### Introduction to Computer Programming
+Details about the Introduction to Computer Programming project.
+
+##### Exploratory Data Analysis Global Terrorism
+Details about the Exploratory Data Analysis Global Terrorism project.
+
+##### Product Dissection "Case Study"
+Details about the Product Dissection "Case Study" project.
+
+##### Tableau Global Terrorism Dashboard
+Details about the Tableau Global Terrorism Dashboard project.
+
+##### Applied Statistics Interview Grind
+Details about the Applied Statistics Interview Grind project.
+
+##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
+Details about the Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning project.
+
+
+
+
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
 <p>For accessing my article in my portfolio. You can refer to or download my 🤩<a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing"> "Article"</a> 😊.</p>
