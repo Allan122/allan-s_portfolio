@@ -316,59 +316,58 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 
 ##### Prediction using Supervised ML
 ## Prediction-using-Supervised-ML
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 **Project Overview**
 
 The "Prediction using Supervised ML" project is designed to leverage supervised machine learning techniques to predict outcomes based on labeled data. This project demonstrates the application of various supervised learning algorithms, data preprocessing techniques, model evaluation, and performance optimization.
 
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/4f4f1bfc-77c1-4541-8618-5eb6c48b83c6)
+
 ##### Prediction using Unsupervised ML
-Details about the Prediction using Unsupervised ML project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Exploratory Data Analysis Retail
-Details about the Exploratory Data Analysis Retail project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Exploratory Data Analysis on Sports IPL
-Details about the Exploratory Data Analysis on Sports IPL project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Prediction using Decision Tree
-Details about the Prediction using Decision Tree project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Stock Market Prediction
-Details about the Stock Market Prediction project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
-### Prodigy Infotech
 ##### World Bank Population
-Details about the World Bank Population project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Titanic
-Details about the Titanic project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Bank
-Details about the Bank project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Twitter Sentiment Analysis
-Details about the Twitter Sentiment Analysis project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Traffic Accident
-Details about the Traffic Accident project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
-### CognoRise Infotech
 ##### Tic Tac Toe AI
-Details about the Tic Tac Toe AI project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Ping Pong AI
-Details about the Ping Pong AI project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Twitter Sentiment Analysis (CognoRise)
-Details about the Twitter Sentiment Analysis project.
-
-### Almabetter
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Applied Statistics Interview Grind
-Details about the Applied Statistics Interview Grind project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
-Details about the Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning project.
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 
 # SQL Project
