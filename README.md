@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -41,67 +40,11 @@
     <div class="center">
         <div class="title">Data Analytics Portfolio</div>
         <div class="message">Welcome to My Portfolio!</div>
-        <div class="description">This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences. Explore the projects and insights I've gained along the way.</div>
         <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471" alt="Portfolio Image" class="portfolio-img">
-    </div>
-</body>
-</html>
-
-
-
-
-<html>
-<head>
-    <style>
-        .center {
-            text-align: center;
-            margin-top: 50px;
-        }
-
-        .title {
-            font-size: 48px;
-            color: #333;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-
-        .message {
-            font-size: 24px;
-            color: #555;
-            margin-bottom: 30px;
-        }
-
-        .description {
-            font-size: 18px;
-            color: #777;
-            line-height: 1.6;
-        }
-
-        .portfolio-img {
-            margin-top: 50px;
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            border-radius: 10px;
-        }
-
-    </style>
-</head>
-<body>
-    <div class="center">
-        <div class="title">Data Analytics Portfolio</div>
-        <div class="message">Welcome to My Portfolio!</div>
         <div class="description">This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</div>
-         <img src="![Alexander aronowitz](https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471)
-" alt="Portfolio Image" class="portfolio-img">
     </div>
 </body>
 </html>
-
-
-
 
 
 # Internships
