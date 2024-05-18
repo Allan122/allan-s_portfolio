@@ -1,11 +1,8 @@
 # Data Analytics Portfolio
 
-
-
-
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
-<p>Download my file from <a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing">Google Drive</a>.</p>
+<p>Can refer or download my<a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing">Article</a>.</p>
 (https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing)
 
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
