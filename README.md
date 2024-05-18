@@ -18,7 +18,7 @@
     <div class="center">
         <h1>Data Analytics Portfolio</h1>
         <p class="message">Welcome to My Portfolio! </p> 
-           <p This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
+           <p>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
     </div>
 </body>
 </html>
