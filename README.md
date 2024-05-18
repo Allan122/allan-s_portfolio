@@ -16,8 +16,7 @@
 
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
-<p>For accessing the project with dataset in my portfolio. You can refer to or download my 🤩<a href="https://github.com/Allan122/TabNetflixDataset.git"> "Github"</a> 🕵🏻.</p>
-()
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabNetflixDataset.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The Netflix Dashboard is a comprehensive visualization tool built using Tableau, aimed at providing insights into Netflix's content library, user engagement, and performance metrics. It allows stakeholders to gain valuable insights into various aspects of Netflix's operations, enabling data-driven decision-making and strategic planning.
 
@@ -35,7 +34,7 @@ The Netflix Dashboard is a comprehensive visualization tool built using Tableau,
 
 
 ## Project 2: Amazon Prime Dashboard
-(https://github.com/Allan122/TabPrimeDashboard.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabPrimeDashboard.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The Amazon Prime Dashboard is a dynamic analytics platform built to provide actionable insights into Amazon Prime's content ecosystem and user engagement metrics. Leveraging interactive visualizations and advanced analytics, this dashboard offers a comprehensive overview of Amazon Prime's content library and user behavior, enabling stakeholders to make informed decisions and optimize the platform's performance.
 
@@ -61,7 +60,7 @@ The Amazon Prime Dashboard is a dynamic analytics platform built to provide acti
 
 
 ## Project 3: Covid 19
-(https://github.com/Allan122/TabCovid19.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabCovid19.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed to provide real-time insights into the distribution of COVID-19 vaccinations across populations worldwide. Leveraging interactive visualizations and advanced data analytics, this dashboard offers a comprehensive overview of vaccination rates, population coverage, and the impact of socioeconomic factors on vaccination efforts. By integrating real-time data on partially vaccinated, fully vaccinated, and unvaccinated populations with indicators such as GDP per capita and vaccination rates per hundred, this dashboard enables stakeholders to identify vaccination disparities, target vulnerable populations, and optimize resource allocation for effective pandemic response.
 
@@ -87,7 +86,7 @@ The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed
 
 
 ## Project 4: Covid-19 in India Dashboard
-(https://github.com/Allan122/TabCovid19India.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabCovid19India.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The COVID-19 India Dashboard provides a comprehensive and real-time overview of the COVID-19 pandemic's impact across states in India. Leveraging interactive visualizations and data analytics, this dashboard offers insights into key metrics such as total deaths, COVID-19 cases, testing rates, vaccination coverage, and demographic trends. By integrating data on total deaths by state, age group details, COVID cases by state, testing statistics from the Indian Council of Medical Research (ICMR), gender distribution, statewide testing details, and vaccination doses administered, this dashboard enables stakeholders to track the pandemic's progression, identify hotspots, and assess the effectiveness of public health interventions and vaccination campaigns at the state level.
 
@@ -114,7 +113,7 @@ The COVID-19 India Dashboard provides a comprehensive and real-time overview of 
 
 
 ## Project 5: Housing Sales interactive Dashboard
-(https://github.com/Allan122/TabHouseSalesData.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabHouseSalesData.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The Housing Sales Interactive Dashboard is a powerful tool designed to provide real-time insights into the housing market, offering comprehensive visualizations and analytics to aid stakeholders in understanding trends and making informed decisions. Leveraging interactive features, this dashboard presents key metrics such as daily average sales price, distribution of house prices, geographic distribution of sales, property views vs. condition heatmap, and distributions of bedrooms and bathrooms. By incorporating real-time data and interactive elements, this dashboard enables users to explore housing market dynamics, identify opportunities, and optimize pricing and marketing strategies.
 
@@ -138,7 +137,7 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 
 
 ## Project 6: Global Terrorism Dashboard
-(https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW"> " 🤩 Google drive"</a> 🕵🏻.</p>
 
 The global terrorism Tableau dashboard provides a comprehensive overview of terrorism incidents worldwide. It includes interactive visualizations such as maps, charts, and graphs that showcase trends, patterns, and hotspots of terrorist activities. Users can filter the data by various parameters such as time, location, type of attack, casualties, and more. The dashboard also supports drill-down capabilities, allowing users to delve deeper into specific regions or incidents for detailed analysis. Overall, the dashboard aims to facilitate data-driven insights and decision-making regarding global terrorism threats.
 
@@ -146,7 +145,7 @@ The global terrorism Tableau dashboard provides a comprehensive overview of terr
 
 
 ## Project 7: Indian Agricultural Analysis
-(https://github.com/Allan122/Indian-Agriculture-Analysis.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Indian-Agriculture-Analysis.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
 The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview of agricultural trends and metrics in India. It includes interactive visualizations such as charts and graphs with real time analysis.
 
