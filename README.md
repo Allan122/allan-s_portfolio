@@ -38,7 +38,7 @@
 1. [Prediction using Supervised ML](#prediction-using-supervised-ml)
 2. [Prediction using Unsupervised ML](#prediction-using-unsupervised-ml)
 3. [Exploratory Data Analysis Retail](#exploratory-data-analysis-retail)
-4. [Global Terrorism Dataset](#global-terrorism-dataset)
+4. [Exploratory Data Analysis Global Terrorism](#exploratory-data-analysis-global-terrorism)
 5. [Exploratory Data Analysis on Sports IPL](#exploratory-data-analysis-on-sports-ipl)
 6. [Prediction using Decision Tree](#prediction-using-decision-tree)
 7. [Stock Market Prediction](#stock-market-prediction)
@@ -67,19 +67,6 @@
 ---
 
 
-##### Indian Agriculture
-Details about the Indian Agriculture project.
-
-#### Machine Learning Projects
-##### Machine Learning Article
-Details about the Machine Learning Article project.
-
-##### Customer Churn Prediction
-Details about the Customer Churn Prediction project.
-
-##### World Cup 2023
-Details about the World Cup 2023 project.
-
 ### The Sparks Foundation
 ##### Prediction using Supervised ML
 Details about the Prediction using Supervised ML project.
@@ -90,9 +77,6 @@ Details about the Prediction using Unsupervised ML project.
 ##### Exploratory Data Analysis Retail
 Details about the Exploratory Data Analysis Retail project.
 
-##### Global Terrorism Dataset
-Details about the Global Terrorism Dataset project.
-
 ##### Exploratory Data Analysis on Sports IPL
 Details about the Exploratory Data Analysis on Sports IPL project.
 
@@ -101,9 +85,6 @@ Details about the Prediction using Decision Tree project.
 
 ##### Stock Market Prediction
 Details about the Stock Market Prediction project.
-
-##### Timeline Analysis - Covid-19
-Details about the Timeline Analysis - Covid-19 project.
 
 ### Prodigy Infotech
 ##### World Bank Population
@@ -132,11 +113,6 @@ Details about the Ping Pong AI project.
 Details about the Twitter Sentiment Analysis project.
 
 ### Almabetter
-##### Introduction to Computer Programming
-Details about the Introduction to Computer Programming project.
-
-##### Exploratory Data Analysis Global Terrorism
-Details about the Exploratory Data Analysis Global Terrorism project.
 
 ##### Product Dissection "Case Study"
 Details about the Product Dissection "Case Study" project.
@@ -152,12 +128,13 @@ Details about the Unsupervised ML - Book Recommendation System Capstone - End to
 
 
 
-##### Data Analyst Article
 # Articles
+##### Data Analyst Article
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
 <p>For accessing my article in my portfolio. You can refer to or download my 🤩<a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing"> "Article"</a> 😊.</p>
 
 
+##### Machine Learning Article
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
 <p>For accessing my article in my portfolio. You can refer to or download my 😊<a href="https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing"> "Article"</a> 🤩.</p>
 
@@ -239,6 +216,7 @@ The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed
 
 
 
+##### Timeline Analysis - Covid-19
 ## Project 4: Covid-19 in India Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabCovid19India.git"> "GitHub"</a> 🕵🏻.</p>
 
@@ -298,6 +276,7 @@ The global terrorism Tableau dashboard provides a comprehensive overview of terr
 ![Dashboard 2 (1)](https://github.com/Allan122/Mentorness/assets/45638226/3a6270ca-7115-487a-a552-688740af4798)
 
 
+##### Indian Agriculture
 ## Project 7: Indian Agricultural Analysis
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Indian-Agriculture-Analysis.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
 
@@ -306,6 +285,7 @@ The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview
 ![Indian Agriculture Analysis Dashboard](https://github.com/Allan122/Mentorness/assets/45638226/468d2f31-f127-4ba2-b162-1ee036f54716)
 
 # Python Projects using Colab/ Jupyter Notebook
+##### Introduction to Computer Programming
 ## Project 1: Introduction to Computer Programming
 (https://github.com/Allan122/CompProgram.git)
 
@@ -313,6 +293,7 @@ This Python project demonstrates mastery of fundamental programming concepts inc
 
 ![Hello World](https://github.com/Allan122/Mentorness/assets/45638226/75df6965-0b69-433a-abef-8dbd30ea0780)
 
+##### Exploratory Data Analysis Global Terrorism
 ## Project 2: Global Terrorism Dataset
 (https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git)
 
@@ -322,6 +303,7 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 
 ![Global Terrorism](https://github.com/Allan122/Mentorness/assets/45638226/e7cba1a6-e6f1-4f54-a66e-88e8e9ca7954)
 
+##### Customer Churn Prediction
 ## Project 3: Customer Churn Prediction
 (https://github.com/Allan122/CustomerChurnPrediction.git)
 
@@ -331,6 +313,7 @@ In this project, we analyze the Customer Churn Prediction. Through the analysis 
 
 ![Customer Churn](https://github.com/Allan122/Mentorness/assets/45638226/5f8339c7-14bd-4715-a990-7cf08e7f31e2)
 
+##### World Cup 2023
 ## Project 4:  World Cup 2023 Analysis
 (https://github.com/Allan122/Mentorness.git)
 
