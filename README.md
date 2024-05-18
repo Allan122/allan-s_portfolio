@@ -3,6 +3,46 @@
     <style>
         .center {
             text-align: center;
+            margin-top: 50px;
+        }
+
+        .title {
+            font-size: 48px;
+            color: #333;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .message {
+            font-size: 24px;
+            color: #555;
+            margin-bottom: 30px;
+        }
+
+        .description {
+            font-size: 18px;
+            color: #777;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <div class="title">Data Analytics Portfolio</div>
+        <div class="message">Welcome to My Portfolio!</div>
+        <div class="description">This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences. Explore the projects and insights I've gained along the way.</div>
+    </div>
+</body>
+</html>
+
+
+
+
+<html>
+<head>
+    <style>
+        .center {
+            text-align: center;
         }
 
         h1 {
@@ -18,7 +58,7 @@
     <div class="center">
         <h1>Data Analytics Portfolio</h1>
         <p class="message">Welcome to My Portfolio! </p> 
-           <p><b>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</b></p>
+           <p>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
     </div>
 </body>
 </html>
