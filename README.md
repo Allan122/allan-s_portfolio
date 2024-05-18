@@ -2,7 +2,7 @@
 
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
-<p>For accessing my article in my portfolio. You can refer to or download my<a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing"> Article.</a>.</p>
+<p>For accessing my article in my portfolio. You can refer to or download my<a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing"> "Article".</a>.</p>
 
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
 (https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing)
