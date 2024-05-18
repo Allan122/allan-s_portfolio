@@ -293,7 +293,9 @@ This Python project demonstrates mastery of fundamental programming concepts inc
 ## Project 2: Global Terrorism Dataset
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git"> "GitHub"</a> 🕵🏻.</p>
 
-**Global Terrorism Dataset:**
+<p>You can go through my  video presentation on 🤩<a href="https://www.youtube.com/watch?v=8PmiSjrlfOo"> "Youtube"</a> 📹.</p>
+
+**Global Terrorism:**
 
 In this project, we analyze the Global Terrorism Database (GTD) to uncover patterns, trends, and insights into terrorism incidents worldwide. Leveraging Python and data analysis techniques in Jupyter Notebook, we explore key factors such as attack types, weapons used, target locations, perpetrators, and trends over time. Through interactive visualizations and statistical analysis, we aim to gain a deeper understanding of the global terrorism landscape and inform counterterrorism efforts and policy-making.
 
