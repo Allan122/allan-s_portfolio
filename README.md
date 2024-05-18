@@ -24,6 +24,17 @@
             color: #777;
             line-height: 1.6;
         }
+
+        .portfolio-img {
+            margin-top: 50px;
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+        }
+
     </style>
 </head>
 <body>
