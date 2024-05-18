@@ -66,15 +66,6 @@
 
 ---
 
-## Project Details
-
-### Mentorness
-
-#### Data Analyst Projects
-Details about the Data Analyst Article project.
-
-##### SQL Hotel Reservation
-Details about the SQL Hotel Reservation project.
 
 ##### Indian Agriculture
 Details about the Indian Agriculture project.
@@ -351,6 +342,7 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 
 # SQL Project
 
+##### SQL Hotel Reservation
 ## SQL_Hotel_Data_Analysis
 (https://github.com/Allan122/SQLHotel_Data_Analysis.git)
 
