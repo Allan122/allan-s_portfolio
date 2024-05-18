@@ -36,10 +36,10 @@
 </html>
 
 
-\
 
 
-## Internships
+
+# Internships
 
 ### Mentorness
 - **Data Analyst** (1 month)
