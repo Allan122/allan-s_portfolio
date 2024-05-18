@@ -368,7 +368,7 @@ Details about the Unsupervised ML - Book Recommendation System Capstone - End to
 This repository contains data analysis scripts and insights derived from a dataset related to hotel reservations. 
 The dataset encompasses various aspects of hotel bookings, including reservation details, customer demographics, booking patterns, and more.
 
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad1z/view?usp=sharing
+<p>For accessing the csv dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad1z/view?usp=sharing
 "> "Google drive"</a> 🕵🏻.</p>
 
 ## Overview
