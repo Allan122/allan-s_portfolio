@@ -113,12 +113,7 @@ Details about the Ping Pong AI project.
 Details about the Twitter Sentiment Analysis project.
 
 ### Almabetter
-
 ##### Product Dissection "Case Study"
-Details about the Product Dissection "Case Study" project.
-
-##### Tableau Global Terrorism Dashboard
-Details about the Tableau Global Terrorism Dashboard project.
 
 ##### Applied Statistics Interview Grind
 Details about the Applied Statistics Interview Grind project.
@@ -268,6 +263,7 @@ The Housing Sales Interactive Dashboard is a powerful tool designed to provide r
 ![Housing dashboard](https://github.com/Allan122/allan-s_portfolio/assets/45638226/974eb518-2f82-4d9e-8a7d-a58bdf6f5740)
 
 
+##### Tableau Global Terrorism Dashboard
 ## Project 6: Global Terrorism Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://drive.google.com/drive/folders/1-p0oWMQa1Fc8gaVWOHJmcjpv8iPOxSfW"> "Google drive"</a> 🕵🏻.</p>
 
@@ -278,7 +274,7 @@ The global terrorism Tableau dashboard provides a comprehensive overview of terr
 
 ##### Indian Agriculture
 ## Project 7: Indian Agricultural Analysis
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Indian-Agriculture-Analysis.git"> " 🤩 GitHub"</a> 🕵🏻.</p>
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Indian-Agriculture-Analysis.git"> "GitHub"</a> 🕵🏻.</p>
 
 The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview of agricultural trends and metrics in India. It includes interactive visualizations such as charts and graphs with real time analysis.
 
@@ -287,7 +283,7 @@ The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview
 # Python Projects using Colab/ Jupyter Notebook
 ##### Introduction to Computer Programming
 ## Project 1: Introduction to Computer Programming
-(https://github.com/Allan122/CompProgram.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/CompProgram.git"> "GitHub"</a> 🕵🏻.</p>
 
 This Python project demonstrates mastery of fundamental programming concepts including data types, loops, conditionals, object-oriented programming, and exception han- dling. Solved 30 questions without errors covering important topics.
 
@@ -295,7 +291,7 @@ This Python project demonstrates mastery of fundamental programming concepts inc
 
 ##### Exploratory Data Analysis Global Terrorism
 ## Project 2: Global Terrorism Dataset
-(https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Global-Terrorism-Dataset-Submission.git"> "GitHub"</a> 🕵🏻.</p>
 
 **Global Terrorism Dataset:**
 
@@ -305,7 +301,7 @@ In this project, we analyze the Global Terrorism Database (GTD) to uncover patte
 
 ##### Customer Churn Prediction
 ## Project 3: Customer Churn Prediction
-(https://github.com/Allan122/CustomerChurnPrediction.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/CustomerChurnPrediction.git"> "GitHub"</a> 🕵🏻.</p>
 
 **Customer Churn Prediction**
 
@@ -315,7 +311,7 @@ In this project, we analyze the Customer Churn Prediction. Through the analysis 
 
 ##### World Cup 2023
 ## Project 4:  World Cup 2023 Analysis
-(https://github.com/Allan122/Mentorness.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/Mentorness.git"> "GitHub"</a> 🕵🏻.</p>
 
 **World Cup 2023**
 
@@ -327,7 +323,7 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 
 ##### SQL Hotel Reservation
 ## SQL_Hotel_Data_Analysis
-(https://github.com/Allan122/SQLHotel_Data_Analysis.git)
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/SQLHotel_Data_Analysis.git"> "GitHub"</a> 🕵🏻.</p>
 
 This repository contains data analysis scripts and insights derived from a dataset related to hotel reservations. 
 The dataset encompasses various aspects of hotel bookings, including reservation details, customer demographics, booking patterns, and more.
