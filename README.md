@@ -16,7 +16,8 @@
 
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
-(https://github.com/Allan122/TabNetflixDataset.git)
+<p>For accessing the project with dataset in my portfolio. You can refer to or download my 🤩<a href="https://github.com/Allan122/TabNetflixDataset.git"> "Github"</a> 🕵🏻.</p>
+()
 
 The Netflix Dashboard is a comprehensive visualization tool built using Tableau, aimed at providing insights into Netflix's content library, user engagement, and performance metrics. It allows stakeholders to gain valuable insights into various aspects of Netflix's operations, enabling data-driven decision-making and strategic planning.
 
