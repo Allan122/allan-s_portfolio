@@ -318,7 +318,8 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 ## Prediction-using-Supervised-ML
 
 **Project Overview**
-This project demonstrates the application of supervised machine learning techniques to predict outcomes based on labeled data. It covers data preprocessing, model building, evaluation, and making predictions using various supervised learning algorithms.
+
+The "Prediction using Supervised ML" project is designed to leverage supervised machine learning techniques to predict outcomes based on labeled data. This project demonstrates the application of various supervised learning algorithms, data preprocessing techniques, model evaluation, and performance optimization.
 
 ##### Prediction using Unsupervised ML
 Details about the Prediction using Unsupervised ML project.
