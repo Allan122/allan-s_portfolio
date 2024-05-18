@@ -1,6 +1,28 @@
-# Data Analytics Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .center {
+            text-align: center;
+        }
 
-# Welcome to My Portfolio
+        h1 {
+            font-size: 36px; /* You can adjust the font size as needed */
+        }
+
+        .message {
+            font-size: 20px; /* You can adjust the font size as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1>Data Analytics Portfolio</h1>
+        <p class="message">Welcome to My Portfolio! This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
+    </div>
+</body>
+</html>
+
 
 ## Internships
 
@@ -66,63 +88,6 @@
 
 ---
 
-
-### The Sparks Foundation
-##### Prediction using Supervised ML
-Details about the Prediction using Supervised ML project.
-
-##### Prediction using Unsupervised ML
-Details about the Prediction using Unsupervised ML project.
-
-##### Exploratory Data Analysis Retail
-Details about the Exploratory Data Analysis Retail project.
-
-##### Exploratory Data Analysis on Sports IPL
-Details about the Exploratory Data Analysis on Sports IPL project.
-
-##### Prediction using Decision Tree
-Details about the Prediction using Decision Tree project.
-
-##### Stock Market Prediction
-Details about the Stock Market Prediction project.
-
-### Prodigy Infotech
-##### World Bank Population
-Details about the World Bank Population project.
-
-##### Titanic
-Details about the Titanic project.
-
-##### Bank
-Details about the Bank project.
-
-##### Twitter Sentiment Analysis
-Details about the Twitter Sentiment Analysis project.
-
-##### Traffic Accident
-Details about the Traffic Accident project.
-
-### CognoRise Infotech
-##### Tic Tac Toe AI
-Details about the Tic Tac Toe AI project.
-
-##### Ping Pong AI
-Details about the Ping Pong AI project.
-
-##### Twitter Sentiment Analysis (CognoRise)
-Details about the Twitter Sentiment Analysis project.
-
-### Almabetter
-##### Product Dissection "Case Study"
-
-##### Applied Statistics Interview Grind
-Details about the Applied Statistics Interview Grind project.
-
-##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
-Details about the Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning project.
-
-
-
 # Articles
 ##### Data Analyst Article
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
@@ -134,6 +99,7 @@ Details about the Unsupervised ML - Book Recommendation System Capstone - End to
 <p>For accessing my article in my portfolio. You can refer to or download my 😊<a href="https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing"> "Article"</a> 🤩.</p>
 
 # Casestudy
+##### Product Dissection "Case Study"
 ## Linkedin - Transforming Professional Networking
 <p>For accessing the document in my portfolio. You can refer to or download my 🤩<a href="https://docs.google.com/document/d/1kkMPAKqZTsQqItZLloIfIBuhyjgBP5JkEJjB6u93s14/edit?usp=sharing"> "Document"</a> 📃.</p>
 
@@ -214,6 +180,9 @@ The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed
 ##### Timeline Analysis - Covid-19
 ## Project 4: Covid-19 in India Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my 🤩<a href="https://github.com/Allan122/TabCovid19India.git"> "GitHub"</a> 🕵🏻.</p>
+
+<p>You can go through my  video presentation on 🤩<a href="https://www.youtube.com/watch?v=JtnkCSYuLhc
+"> "Youtube"</a> 📹.</p>
 
 The COVID-19 India Dashboard provides a comprehensive and real-time overview of the COVID-19 pandemic's impact across states in India. Leveraging interactive visualizations and data analytics, this dashboard offers insights into key metrics such as total deaths, COVID-19 cases, testing rates, vaccination coverage, and demographic trends. By integrating data on total deaths by state, age group details, COVID cases by state, testing statistics from the Indian Council of Medical Research (ICMR), gender distribution, statewide testing details, and vaccination doses administered, this dashboard enables stakeholders to track the pandemic's progression, identify hotspots, and assess the effectiveness of public health interventions and vaccination campaigns at the state level.
 
@@ -321,6 +290,60 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 
 ![World Cup 2023](https://github.com/Allan122/Mentorness/assets/45638226/8640d8be-7172-4af6-9d78-0950ce6d7b8f)
 
+
+##### Prediction using Supervised ML
+
+
+##### Prediction using Unsupervised ML
+Details about the Prediction using Unsupervised ML project.
+
+##### Exploratory Data Analysis Retail
+Details about the Exploratory Data Analysis Retail project.
+
+##### Exploratory Data Analysis on Sports IPL
+Details about the Exploratory Data Analysis on Sports IPL project.
+
+##### Prediction using Decision Tree
+Details about the Prediction using Decision Tree project.
+
+##### Stock Market Prediction
+Details about the Stock Market Prediction project.
+
+### Prodigy Infotech
+##### World Bank Population
+Details about the World Bank Population project.
+
+##### Titanic
+Details about the Titanic project.
+
+##### Bank
+Details about the Bank project.
+
+##### Twitter Sentiment Analysis
+Details about the Twitter Sentiment Analysis project.
+
+##### Traffic Accident
+Details about the Traffic Accident project.
+
+### CognoRise Infotech
+##### Tic Tac Toe AI
+Details about the Tic Tac Toe AI project.
+
+##### Ping Pong AI
+Details about the Ping Pong AI project.
+
+##### Twitter Sentiment Analysis (CognoRise)
+Details about the Twitter Sentiment Analysis project.
+
+### Almabetter
+
+##### Applied Statistics Interview Grind
+Details about the Applied Statistics Interview Grind project.
+
+##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
+Details about the Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning project.
+
+
 # SQL Project
 
 ##### SQL Hotel Reservation
@@ -334,6 +357,3 @@ Link to Dataset: https://drive.google.com/file/d/1FBDuwLewK6oNVDS5k7kjl5CfLG5wad
 
 ## Overview
 ![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
-
-
-
