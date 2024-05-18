@@ -30,35 +30,7 @@
     <div class="center">
         <div class="title">Data Analytics Portfolio</div>
         <div class="message">Welcome to My Portfolio!</div>
-        <div class="description">This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences. Explore the projects and insights I've gained along the way.</div>
-    </div>
-</body>
-</html>
-
-
-
-
-<html>
-<head>
-    <style>
-        .center {
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 36px; /* You can adjust the font size as needed */
-        }
-
-        .message {
-            font-size: 20px; /* You can adjust the font size as needed */
-        }
-    </style>
-</head>
-<body>
-    <div class="center">
-        <h1>Data Analytics Portfolio</h1>
-        <p class="message">Welcome to My Portfolio! </p> 
-           <p>This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</p>
+        <div class="description">This portfolio showcases my journey in the field of data analytics, including projects, skills, and experiences.</div>
     </div>
 </body>
 </html>
