@@ -1,9 +1,21 @@
 # Data Analytics Portfolio
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page</h1>
+    <p>Download my file from <a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing">Google Drive</a>.</p>
+</body>
+</html>
+
 
 # Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
-<a href="https://github.com/yourusername/yourrepository">
 (https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing)
 
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
