@@ -426,19 +426,19 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b3f646df-98c2-476c-ac9e-408f6c472551)
 
 
-#### 2. The Sparks Foundation Certifications
+# 2. The Sparks Foundation Certifications
 ## Data Science and Business Analytics
 ![The Sparks Foundation Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/42970252-2bb8-4689-a248-99098f0394a5)
 
-#### 3. Prodigy Infotech Certifications
+# 3. Prodigy Infotech Certifications
 ## Data Science Intern
 ![Prodigy Infotech Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/162ecf2e-195b-43cd-b895-11cf6be12e6a)
 
-#### 4. CognoRise Infotech Certifications
+# 4. CognoRise Infotech Certifications
 ## Certifications
 ![CognoRise Infotech Certifications](path/to/cognorise_certifications.jpg)
 
-#### 5. Almabetter Certifications
+# 5. Almabetter Certifications
 ## Certifications
 ![Almabetter Certifications](path/to/almabetter_certifications.jpg)
 
