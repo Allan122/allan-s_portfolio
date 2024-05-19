@@ -109,6 +109,12 @@
 5. [Applied Statistics Interview Grind](#applied-statistics-interview-grind)
 6. [Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning](#unsupervised-ml-book-recommendation-system-capstone-end-to-end-machine-learning)
 
+### Professional Achievements and Recognitions
+
+1. [Offer Letters](#offer-letters)
+2. [Certifications](#certifications)
+3. [Letters of Recommendation](#letters-of-recommendation)
+
 ---
 
 # Articles
@@ -384,3 +390,74 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ## Overview
 ![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
+
+
+### Offer Letters
+
+#### 1. Mentorness Offer Letter
+**Offer Letter**
+![Mentorness Offer Letter](path/to/mentorness_offer_letter.jpg)
+
+#### 2. The Sparks Foundation Offer Letter
+**Offer Letter**
+![The Sparks Foundation Offer Letter](path/to/sparks_offer_letter.jpg)
+
+#### 3. Prodigy Infotech Offer Letter
+**Offer Letter**
+![Prodigy Infotech Offer Letter](path/to/prodigy_offer_letter.jpg)
+
+#### 4. CognoRise Infotech Offer Letter
+**Offer Letter**
+![CognoRise Infotech Offer Letter](path/to/cognorise_offer_letter.jpg)
+
+
+
+### Certifications
+
+#### 1. Mentorness Certifications
+**Certifications**
+![Mentorness Certifications](![Allan Cheerakunnil Alex_Certificate](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ad0b521e-852d-46b7-ac7f-64f433a06c49)
+)
+
+#### 2. The Sparks Foundation Certifications
+**Certifications**
+![The Sparks Foundation Certifications](path/to/sparks_certifications.jpg)
+
+#### 3. Prodigy Infotech Certifications
+**Certifications**
+![Prodigy Infotech Certifications](path/to/prodigy_certifications.jpg)
+
+#### 4. CognoRise Infotech Certifications
+**Certifications**
+![CognoRise Infotech Certifications](path/to/cognorise_certifications.jpg)
+
+#### 5. Almabetter Certifications
+**Certifications**
+![Almabetter Certifications](path/to/almabetter_certifications.jpg)
+
+
+### Letters of Recommendation
+
+#### 1. Mentorness Letter Of Recommendation
+**Letter Of Recommendation**
+![Mentorness Letter Of Recommendation](path/to/mentorness_letter_of_recommendation.jpg)
+
+#### 2. The Sparks Foundation Letter Of Recommendation
+**Letter Of Recommendation**
+![The Sparks Foundation Letter Of Recommendation](path/to/sparks_letter_of_recommendation.jpg)
+
+#### 3. Prodigy Infotech Letter Of Recommendation
+**Letter Of Recommendation**
+![Prodigy Infotech Letter Of Recommendation](path/to/prodigy_letter_of_recommendation.jpg)
+
+#### 4. CognoRise Infotech Letter Of Recommendation
+**Letter Of Recommendation**
+![CognoRise Infotech Letter Of Recommendation](path/to/cognorise_letter_of_recommendation.jpg)
+
+
+
+
+---
+
+## Almabetter
+
