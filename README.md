@@ -448,7 +448,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 # 1. The Sparks Foundation Letter Of Recommendation
 ## Data Science and Business Analytics
-![The Sparks Foundation Letter Of Recommendation]([path/to/sparks_letter_of_recommendation.jpg](https://github.com/Allan122/allan-s_portfolio/assets/45638226/f7a30508-b18e-4997-8445-af50c192639e)
+![The Sparks Foundation Letter Of Recommendation](https://github.com/Allan122/allan-s_portfolio/assets/45638226/f7a30508-b18e-4997-8445-af50c192639e)
 
 # 2. Prodigy Infotech Letter Of Recommendation
 ## Data Science Intern
