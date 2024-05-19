@@ -395,11 +395,15 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ### Offer Letters
 
 #### 1. Mentorness Offer Letter
-**Offer Letter**
-![Mentorness Offer Letter](path/to/mentorness_offer_letter.jpg)
+**Data Analyst**
+![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/d36f124d-91d9-45ba-990c-b536d33105df)
+
+**Machine Learning**
+![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/d317522f-3e0b-4042-bd19-27a9f871812c)
+
 
 #### 2. The Sparks Foundation Offer Letter
-**Offer Letter**
+**Data Science and Business Analytics**
 ![The Sparks Foundation Offer Letter](path/to/sparks_offer_letter.jpg)
 
 #### 3. Prodigy Infotech Offer Letter
@@ -415,8 +419,12 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ### Certifications
 
 #### 1. Mentorness Certifications
-**Certifications**
+**Data Analyst**
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ad0b521e-852d-46b7-ac7f-64f433a06c49)
+
+**Machine Learning**
+![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b3f646df-98c2-476c-ac9e-408f6c472551)
+
 
 #### 2. The Sparks Foundation Certifications
 **Certifications**
