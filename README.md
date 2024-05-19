@@ -117,8 +117,8 @@
 
 ---
 
-# Articles
 ##### Data Analyst Article
+# Articles
 ## Data Analytics Article on Understanding SQL Joins: Inner, Outer, Left and Right
 <p>For accessing my article in my portfolio. You can refer to or download my <a href="https://drive.google.com/file/d/10Vv0LrsOklSIXMFIzlX379E-lCYGVEd8/view?usp=sharing"> "Article"</a> .</p>
 
@@ -127,8 +127,8 @@
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
 <p>For accessing my article in my portfolio. You can refer to or download my <a href="https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing"> "Article"</a> .</p>
 
-# Casestudy
 ##### Product Dissection "Case Study"
+# Casestudy
 ## Linkedin - Transforming Professional Networking
 <p>For accessing the document in my portfolio. You can refer to or download my <a href="https://docs.google.com/document/d/1kkMPAKqZTsQqItZLloIfIBuhyjgBP5JkEJjB6u93s14/edit?usp=sharing"> "Document"</a> 📃.</p>
 
