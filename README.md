@@ -416,8 +416,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 #### 1. Mentorness Certifications
 **Certifications**
-![Mentorness Certifications](![Allan Cheerakunnil Alex_Certificate](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ad0b521e-852d-46b7-ac7f-64f433a06c49)
-)
+![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ad0b521e-852d-46b7-ac7f-64f433a06c49)
 
 #### 2. The Sparks Foundation Certifications
 **Certifications**
