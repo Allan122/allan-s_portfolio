@@ -47,9 +47,11 @@
 </html>
 
 
-## Table of Contents
-# Internships
 
+
+# Table of Contents
+
+## Internships
 ### Mentorness
 - **Data Analyst** (1 month)
 - **Machine Learning** (1 month)
@@ -66,7 +68,7 @@
 ### Almabetter
 - **15 months**
 
-# Projects
+## Projects
 
 ### Mentorness
 
