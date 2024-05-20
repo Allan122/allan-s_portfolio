@@ -164,9 +164,8 @@
 
 ---
 
-## ★ Thank You
-[Thank You](#thank-you)
-
+## ★ Conclusion
+[Thank You for Visiting!](#thank-you-for-visiting!)
 
 ---
 
@@ -741,10 +740,10 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
-## Thank You
+## Thank You for Visiting!
 <!-- Thank You Section -->
 <div class="thank-you">
-    <h2>Thank You for Visiting!</h2>
+    <h2></h2>
     <div class="attractive-message">
         <p><strong>🌟 Thank you for taking the time to explore my portfolio. 🌟</strong></p>
         <p>I am enthusiastic about potential opportunities and collaborations, and I'm excited about the prospect of contributing to impactful projects in the data analytics and data science domains. Your interest and engagement are greatly appreciated!</p>
