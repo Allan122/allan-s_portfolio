@@ -721,18 +721,12 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
-### Professional Summary
-
-I am a proactive and detail-oriented data analyst with a strong background in data analytics, machine learning, and statistical analysis. I excel at transforming complex data into actionable insights and possess excellent problem-solving skills. My goal is to leverage my expertise in data-driven decision-making to contribute effectively to challenging projects and drive business success.
-
----
-
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allan-c-alex143/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/allanalex143/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/allanalex143)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Allan122)
 
 ---
 
