@@ -730,6 +730,13 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
-### Thank You for Visiting!
-
-Thank you for taking the time to explore my portfolio. I am excited about potential opportunities and collaborations. Feel free to reach out for further discussions or inquiries. I look forward to connecting with you!
+<!-- Thank You Section -->
+<div class="thank-you">
+    <h2>Thank You for Visiting!</h2>
+    <div class="attractive-message">
+        <p><strong>🌟 Thank you for taking the time to explore my portfolio. 🌟</strong></p>
+        <p>I am enthusiastic about potential opportunities and collaborations, and I'm excited about the prospect of contributing to impactful projects in the data analytics and data science domains. Your interest and engagement are greatly appreciated!</p>
+        <p>Please feel free to reach out for further discussions, collaborations, or any inquiries. I am looking forward to connecting with you and exploring potential synergies.</p>
+        <p><strong>Best regards,<br>Allan Cheerakunnil Alex</strong></p>
+    </div>
+</div>
