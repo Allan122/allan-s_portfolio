@@ -58,20 +58,24 @@
 
 ---
 
-## ★ Internships
-### Mentorness
+## ★ Experience
+
+### Internships
+#### Mentorness
 - **Data Analyst** (1 month)
 - **Machine Learning** (1 month)
 
-### The Sparks Foundation
+#### The Sparks Foundation
 - **Data Science and Business Analytics** (1 month)
 
-### Prodigy Infotech
+#### Prodigy Infotech
 - **Data Science Intern** (1 month)
 
-### CognoRise Infotech
+#### CognoRise Infotech
 - **Artificial Intelligence** (1 month)
 
+
+## Apprenticeship Program
 ### Almabetter
 - **15 months**
 
