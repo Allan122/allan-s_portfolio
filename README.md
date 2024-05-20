@@ -102,7 +102,7 @@
 ### CognoRise Infotech
 1. [Tic Tac Toe AI](#tic-tac-toe-ai)
 2. [Ping Pong AI](#ping-pong-ai)
-3. [Twitter Sentiment Analysis](#twitter-sentiment-analysis-cognorise)
+3. [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 
 ### Almabetter
 1. [Introduction to Computer Programming](#introduction-to-computer-programming)
@@ -428,33 +428,129 @@ This project focuses on using machine learning to predict stock market trends an
 
 ##### World Bank Population
 ## Project 11: World Bank Population
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href=""> "GitHub"</a> 🕵🏻.</p>
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_01.git"> "GitHub"</a> 🕵🏻.</p>
+
+### World Bank Population
+
+This project focuses on analyzing population data from the World Bank to understand global demographic trends. The main goal is to perform data analysis and visualization to uncover insights into population growth, distribution, and demographics across different countries and regions.
+
+#### Key Highlights:
+- **Objective**: Analyze World Bank population data to identify global demographic trends.
+- **Techniques**: Data preprocessing, visualization, statistical analysis.
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
+- **Outcome**: Insights into population growth, demographics, and distribution worldwide.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b9974340-ff01-44d5-93b0-10f861e92c76)
+
 
 ##### Titanic
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 12: Titanic
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_02.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Titanic Dataset Analysis
+
+This project involves analyzing the Titanic dataset, which contains passenger information from the Titanic ship. The main objective is to perform exploratory data analysis (EDA) to uncover insights into the factors that affected survival rates during the Titanic disaster.
+
+#### Key Highlights:
+- **Objective**: Analyze the Titanic dataset to understand factors influencing survival rates.
+- **Techniques**: Data cleaning, EDA, visualization.
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
+- **Outcome**: Insights into survival patterns based on passenger attributes such as age, gender, class, and embarkation point.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/8f1cbdbd-618b-49cc-a171-83ebb32332b6)
+
 
 ##### Bank
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 13: Bank
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_03.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Bank Dataset Analysis
+
+This project involves analyzing a dataset related to banking transactions or customer information from a bank. The main objective is to perform data analysis and extract meaningful insights to improve banking services, detect fraud, or understand customer behavior.
+
+#### Key Highlights:
+- **Objective**: Analyze bank dataset to improve services, detect fraud, or understand customer behavior.
+- **Techniques**: Data preprocessing, analysis, visualization.
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
+- **Outcome**: Insights into banking trends, customer preferences, fraud detection, or service improvement opportunities.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/526b847f-fdc0-4187-bec2-06455cb0a289)
+
 
 ##### Twitter Sentiment Analysis
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 14: Twitter Sentiment Analysis
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_04.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Twitter Sentiment Analysis
+
+This project focuses on analyzing sentiments expressed in tweets from Twitter. The main objective is to use natural language processing (NLP) techniques to classify tweets as positive, negative, or neutral based on the sentiment conveyed.
+
+#### Key Highlights:
+- **Objective**: Perform sentiment analysis on Twitter data to understand public opinion or sentiment trends.
+- **Techniques**: Natural Language Processing (NLP), text preprocessing, sentiment classification.
+- **Tools Used**: Python, NLTK (Natural Language Toolkit), TextBlob, Pandas.
+- **Outcome**: Insights into public sentiment, brand perception, or sentiment trends in specific topics or events.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/8478434b-3af2-41b4-ba7a-70f817299cb2)
+
 
 ##### Traffic Accident
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 15: Traffic Accident
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/PRODIGY_DS_05.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Traffic Accident Analysis
+
+This project involves analyzing data related to traffic accidents, including factors such as location, weather conditions, vehicle types, and severity of accidents. The main goal is to extract insights that can help improve road safety measures and reduce the frequency and severity of accidents.
+
+#### Key Highlights:
+- **Objective**: Analyze traffic accident data to identify patterns, trends, and factors contributing to accidents.
+- **Techniques**: Data preprocessing, analysis, visualization, statistical modeling.
+- **Tools Used**: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
+- **Outcome**: Insights into common causes of accidents, high-risk areas, and recommendations for improving road safety measures.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ec943561-2a26-4452-933a-6979bc5e9219)
+
 
 ##### Tic Tac Toe AI
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 16: Tic Tac Toe AI
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Tic-Tac-Toe-AI.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Tic Tac Toe AI Game
+
+This project involves creating a Tic Tac Toe game in Python with an AI opponent. The main goal is to develop an algorithm that enables the computer to play intelligently against the human player, making strategic moves to win or draw the game.
+
+#### Key Highlights:
+- **Objective**: Develop a Tic Tac Toe game with an AI opponent.
+- **Techniques**: Game logic implementation, AI algorithm (Minimax or heuristic-based), user interface (optional).
+- **Tools Used**: Python, Minimax algorithm (or heuristic-based approach), Pygame (optional for graphical interface).
+- **Outcome**: A functional Tic Tac Toe game where players can compete against an AI that makes smart moves to ensure a challenging and engaging gameplay experience.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/c8caac0c-2d11-479c-8edf-6b111c17ebd0)
+
 
 ##### Ping Pong AI
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 17: Ping Pong AI
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Ping-Pong-AI.git"> "GitHub"</a> 🕵🏻.</p>
 
-##### Twitter Sentiment Analysis (CognoRise)
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+### Ping Pong AI Game
+
+This project involves creating a Ping Pong game in Python with an AI opponent. The main goal is to develop an algorithm that enables the computer-controlled paddle to play competitively against the player or another AI, making strategic moves to keep the game engaging and challenging.
+
+#### Key Highlights:
+- **Objective**: Develop a Ping Pong game with an AI opponent for single or multiplayer gameplay.
+- **Techniques**: Game physics implementation, AI algorithm (simple rules-based or machine learning-based), user interface (optional).
+- **Tools Used**: Python, Pygame (for graphics and game development), AI algorithm (rules-based or machine learning), physics engine (optional).
+- **Outcome**: A functional Ping Pong game where players can compete against an AI opponent, providing an entertaining and interactive gaming experience.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/7ef7d0af-0a7d-4e91-af2b-33f33b60f7e5)
+
 
 ##### Applied Statistics Interview Grind
+## Project 18: Applied Statistics Interview Grind
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 ##### Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
+## Project 19: Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 
