@@ -42,19 +42,13 @@
         <div class="message">Welcome to My Portfolio!</div>
         <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471" alt="Portfolio Image" class="portfolio-img">
         <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences and projects.</b></div>
-
-         <!-- Professional Summary -->
-        <div class="title">Data Analytics Portfolio</div>
-        <div class="message">Welcome to My Portfolio!</div>
-        <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471" alt="Portfolio Image" class="portfolio-img">
-        <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences, and projects.</b></div>
-
+         <div class="about-me">
+            <h2>About Me: Data Analyst & Machine Learning Enthusiast</h2>
+            <p>I am a proactive and detail-oriented data analyst with a strong background in data analytics, machine learning, and statistical analysis. I excel at transforming complex data into actionable insights and possess excellent problem-solving skills. My goal is to leverage my expertise in data-driven decision-making to contribute effectively to challenging projects and drive business success.</p>
+        </div>
     </div>
 </body>
 </html>
-
-
-
 
 
 
