@@ -41,6 +41,8 @@
         <div class="title">Data Analytics Portfolio</div>
         <div class="message">Welcome to My Portfolio!</div>
         <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471" alt="Portfolio Image" class="portfolio-img">
+        <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences, and projects.</b></div>
+        <!-- About Me Section -->
          <div class="about-me">
     <h2>About Me</h2>
     <p>Hello, I am [Your Name], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [Your Degree] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.</p>
