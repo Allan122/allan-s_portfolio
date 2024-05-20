@@ -159,6 +159,17 @@
 
 ---
 
+## ★ Connect with Me
+[Connect with Me](#connect-with-me)
+
+---
+
+## ★ Thank You
+[Thank You](#thank-you)
+
+
+---
+
 ## Skills
 
 ### Technical Skills
@@ -721,7 +732,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
-### Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allan-c-alex143/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/allanalex143/)
@@ -730,6 +741,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
+## Thank You
 <!-- Thank You Section -->
 <div class="thank-you">
     <h2>Thank You for Visiting!</h2>
