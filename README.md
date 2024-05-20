@@ -75,8 +75,9 @@
 - **Artificial Intelligence** (1 month)
 
 
+
 ### Apprenticeship Program
-#### Almabetter**(15 months)**
+- **Almabetter** (15 months)
 
 ---
 
