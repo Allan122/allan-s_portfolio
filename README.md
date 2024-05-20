@@ -135,13 +135,14 @@
 
 ### Technical Skills
 <ul>
-  <li><strong>Programming Languages:</strong> Proficiency in Python and/or R for data analysis and machine learning.</li>
+  <li><strong>Programming Languages:</strong> Proficiency in Python for data analysis and machine learning.</li>
   <li><strong>Machine Learning:</strong> Knowledge of machine learning algorithms and techniques, including supervised and unsupervised learning.</li>
   <li><strong>Statistical Analysis:</strong> Advanced understanding of statistical methods and their applications.</li>
   <li><strong>Data Wrangling:</strong> Expertise in cleaning, transforming, and organizing data for analysis.</li>
   <li><strong>Big Data Technologies:</strong> Familiarity with Hadoop, Spark, or similar technologies for handling large datasets.</li>
-  <li><strong>Data Visualization:</strong> Skills in creating visual representations of data using tools like Matplotlib, Seaborn, Tableau, or D3.js.</li>
-  <li><strong>SQL and NoSQL Databases:</strong> Proficiency in querying relational and non-relational databases.</li>
+  <li><strong>Data Visualization:</strong> Skills in creating visual representations of data using tools like Matplotlib, Seaborn, Tableau and Power BI.</li>
+  <li><strong>SQL:</strong> Proficiency in querying relational databases.</li>
+ <li><strong>Excel:</strong> Advanced skills in Microsoft Excel for data analysis, including functions, pivot tables, and macros.</li>
 </ul>
 
 ### Analytical Skills
