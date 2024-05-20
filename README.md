@@ -51,7 +51,7 @@
 
 # Table of Contents
 
-## * Internships
+## ★ Internships
 ### Mentorness
 - **Data Analyst** (1 month)
 - **Machine Learning** (1 month)
@@ -68,7 +68,7 @@
 ### Almabetter
 - **15 months**
 
-## * Projects
+## ★ Projects
 
 ### Mentorness
 
@@ -112,7 +112,7 @@
 5. [Applied Statistics Interview Grind](#applied-statistics-interview-grind)
 6. [Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning](#unsupervised-ml-book-recommendation-system-capstone-end-to-end-machine-learning)
 
-### Professional Achievements and Recognitions
+### ★ Professional Achievements and Recognitions
 
 1. [Offer Letters](#offer-letters)
 2. [Certifications](#certifications)
