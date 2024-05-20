@@ -51,6 +51,11 @@
 
 # Table of Contents
 
+## ★ Skills
+[Skills](#skills)
+
+---
+
 ## ★ Internships
 ### Mentorness
 - **Data Analyst** (1 month)
@@ -67,6 +72,8 @@
 
 ### Almabetter
 - **15 months**
+
+---
 
 ## ★ Projects
 
@@ -112,11 +119,53 @@
 5. [Applied Statistics Interview Grind](#applied-statistics-interview-grind)
 6. [Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning](#unsupervised-ml-book-recommendation-system-capstone-end-to-end-machine-learning)
 
+---
+
 ## ★ Professional Achievements and Recognitions
 
 1. [Offer Letters](#offer-letters)
 2. [Certifications](#certifications)
 3. [Letters of Recommendation](#letters-of-recommendation)
+
+---
+
+## Skills
+
+### Technical Skills
+<ul>
+  <li><strong>Programming Languages:</strong> Proficiency in Python and/or R for data analysis and machine learning.</li>
+  <li><strong>Machine Learning:</strong> Knowledge of machine learning algorithms and techniques, including supervised and unsupervised learning.</li>
+  <li><strong>Statistical Analysis:</strong> Advanced understanding of statistical methods and their applications.</li>
+  <li><strong>Data Wrangling:</strong> Expertise in cleaning, transforming, and organizing data for analysis.</li>
+  <li><strong>Big Data Technologies:</strong> Familiarity with Hadoop, Spark, or similar technologies for handling large datasets.</li>
+  <li><strong>Data Visualization:</strong> Skills in creating visual representations of data using tools like Matplotlib, Seaborn, Tableau, or D3.js.</li>
+  <li><strong>SQL and NoSQL Databases:</strong> Proficiency in querying relational and non-relational databases.</li>
+</ul>
+
+### Analytical Skills
+<ul>
+  <li><strong>Predictive Analytics:</strong> Ability to build and validate predictive models to forecast future trends.</li>
+  <li><strong>Deep Learning:</strong> Understanding of neural networks and deep learning frameworks like TensorFlow or PyTorch.</li>
+  <li><strong>EDA (Exploratory Data Analysis):</strong> Skills in uncovering patterns and insights through data exploration.</li>
+</ul>
+
+### Soft Skills
+<ul>
+  <li><strong>Problem-Solving:</strong> Strong analytical and logical reasoning abilities to tackle complex data problems.</li>
+  <li><strong>Communication:</strong> Excellent verbal and written communication skills to present findings effectively.</li>
+  <li><strong>Teamwork:</strong> Ability to collaborate with cross-functional teams and contribute to group projects.</li>
+  <li><strong>Adaptability:</strong> Flexibility to learn new tools and techniques as needed in a fast-paced environment.</li>
+</ul>
+
+### Language Skills
+<ul>
+  <li><strong>English:</strong> Fluent</li>
+  <li><strong>Hindi:</strong> Fluent</li>
+  <li><strong>Marathi:</strong> Fluent</li>
+  <li><strong>Malayalam:</strong> Fluent</li>
+  <li><strong>Japanese:</strong> Intermediate</li>
+</ul>
+
 
 ---
 
