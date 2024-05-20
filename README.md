@@ -47,7 +47,7 @@
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
-            Hello, I am [Allan Cheerakunnil Alex], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [MSc. Data Science] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.
+            Hello, I am Allan Cheerakunnil Alex, a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a MSc.Data Science degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.
         </p>
         
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
@@ -63,7 +63,9 @@
         </p>
         
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
-            I am actively seeking opportunities to collaborate with passionate teams, tackle complex problems, and make a meaningful impact through data-driven solutions. Let's connect and explore how I can add value to your organization!
+            I am actively seeking opportunities to collaborate with passionate teams, tackle complex problems, and make a meaningful impact through data-driven solutions.         </p>
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+        Let's connect and explore how I can add value to your organization!
         </p>
     </div>
 </div>
