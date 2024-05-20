@@ -332,12 +332,20 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 
 The "Prediction using Supervised ML" project is designed to leverage supervised machine learning techniques to predict outcomes based on labeled data. This project demonstrates the application of various supervised learning algorithms, data preprocessing techniques, model evaluation, and performance optimization.
 
+### Key Highlights
+
+- **Objective**: Utilize supervised machine learning techniques to predict outcomes from labeled data.
+- **Techniques**: Implemented algorithms such as Linear Regression, Decision Trees, and Support Vector Machines.
+- **Data Preprocessing**: Included data cleaning, normalization, and feature engineering.
+- **Model Evaluation**: Assessed model performance using metrics like accuracy, precision, recall, and F1-score.
+- **Performance Optimization**: Applied techniques such as hyperparameter tuning and cross-validation to enhance model accuracy.
+- **Tools Used**: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
+
 ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/4f4f1bfc-77c1-4541-8618-5eb6c48b83c6)
 
 
 ##### Prediction using Unsupervised ML
 ## Project 6: Prediction using Unsupervised ML
-### Prediction using Unsupervised ML
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Unsupervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 In this project, I applied unsupervised machine learning techniques to uncover patterns and segment data into meaningful clusters. The key methods used include K-Means clustering, hierarchical clustering, and Principal Component Analysis (PCA). These techniques helped identify natural groupings within the data, providing valuable insights without prior labels.
@@ -352,19 +360,75 @@ In this project, I applied unsupervised machine learning techniques to uncover p
 
 
 ##### Exploratory Data Analysis Retail
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 7: Exploratory Data Analysis Retail
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Exploratory-Data-Analysis-Retail.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Exploratory Data Analysis - Retail
+
+In this project, I conducted an exploratory data analysis (EDA) on a retail dataset to uncover insights and trends. The analysis involved data cleaning, visualization, and statistical analysis to understand sales patterns, customer behavior, and product performance. Key findings highlighted seasonal sales trends, customer demographics, and best-selling products. The insights gained from this EDA can help inform business strategies and decision-making.
+
+#### Key Highlights:
+- **Objective**: Uncover trends and patterns in retail data.
+- **Techniques**: Data cleaning, visualization, statistical analysis.
+- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn.
+- **Outcome**: Valuable insights into sales trends, customer behavior, and product performance.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ea7058bf-3b6b-4392-8237-cd7c6f122d35)
+
 
 ##### Exploratory Data Analysis on Sports IPL
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 8: Exploratory Data Analysis on Sports IPL
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/SparksEDASports.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Exploratory Data Analysis on Sports IPL
+
+In this project, I performed an exploratory data analysis (EDA) on the Indian Premier League (IPL) dataset to uncover insights and trends. The analysis involved data cleaning, visualization, and statistical techniques to understand player performance, team statistics, and match outcomes. Key findings included identifying top-performing players, team strengths and weaknesses, and winning patterns. These insights can help in making informed decisions for team selection and strategy.
+
+#### Key Highlights:
+- **Objective**: Analyze IPL data to uncover performance trends and match outcomes.
+- **Techniques**: Data cleaning, visualization, statistical analysis.
+- **Tools Used**: Python, Pandas, NumPy, Matplotlib, Seaborn.
+- **Outcome**: Insights into player performance, team statistics, and winning patterns.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/e20a4689-ae7a-4a4a-8bbc-9ae38910ee7f)
+
 
 ##### Prediction using Decision Tree
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 9: Prediction using Decision Tree
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Decision-Tree.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Prediction using Decision Tree
+In this project, I utilized a decision tree algorithm for predictive modeling. Decision trees are powerful tools for classification and regression tasks. The main objective was to build a decision tree model that predicts outcomes based on input features.
+
+#### Key Highlights:
+- **Objective**: Implement a decision tree algorithm for prediction.
+- **Techniques**: Data preprocessing, model training, evaluation, and visualization.
+- **Tools Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn.
+- **Outcome**: Successful creation of a decision tree model for accurate predictions.
+
+  ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/60c9f69c-0149-4e71-ab4d-d8f82a3f83b1)
+ 
 
 ##### Stock Market Prediction
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 10: Stock Market Prediction
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Stock-Market-Prediction.git"> "GitHub"</a> 🕵🏻.</p>
+
+### Stock Market Prediction
+
+This project focuses on using machine learning to predict stock market trends and prices. The main goal is to develop models that can forecast future stock prices based on historical data and market indicators.
+
+#### Key Highlights:
+- **Objective**: Predict stock market trends and prices using machine learning techniques.
+- **Techniques**: Data preprocessing, feature engineering, model training (Linear Regression, Support Vector Machines, etc.), and evaluation.
+- **Tools Used**: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras (for deep learning models).
+- **Outcome**: Accurate predictions of stock market trends to assist investors and traders in decision-making.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/38a11692-b7c3-42ce-b050-5a8b6893148a)
+
 
 ##### World Bank Population
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 11: World Bank Population
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href=""> "GitHub"</a> 🕵🏻.</p>
 
 ##### Titanic
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
