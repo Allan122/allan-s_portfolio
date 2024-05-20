@@ -163,7 +163,7 @@
   <li><strong>Hindi:</strong> Fluent</li>
   <li><strong>Marathi:</strong> Fluent</li>
   <li><strong>Malayalam:</strong> Fluent</li>
-  <li><strong>Japanese:</strong> Intermediate</li>
+  <li><strong>Japanese:</strong> Elementary</li>
 </ul>
 
 
