@@ -570,66 +570,66 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
 
 
-### Offer Letters
+# Offer Letters
 
-# 1. Mentorness Offer Letter
-## Data Analyst
+## 1. Mentorness Offer Letter
+### Data Analyst
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/d36f124d-91d9-45ba-990c-b536d33105df)
 
-## Machine Learning
+### Machine Learning
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/d317522f-3e0b-4042-bd19-27a9f871812c)
 
 
-# 2. The Sparks Foundation Offer Letter
-## Data Science and Business Analytics
+## 2. The Sparks Foundation Offer Letter
+### Data Science and Business Analytics
 ![The Sparks Foundation Offer Letter](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fcc1d8c5-6119-4f9d-8399-0d685b8fa548)
 
-# 3. Prodigy Infotech Offer Letter
-## Data Science Intern
+## 3. Prodigy Infotech Offer Letter
+### Data Science Intern
 ![Prodigy Infotech Offer Letter](https://github.com/Allan122/allan-s_portfolio/assets/45638226/c98481a7-af49-489c-8fbd-4bab9bf75dff)
 
-# 4. CognoRise Infotech Offer Letter
-## Offer Letter
+## 4. CognoRise Infotech Offer Letter
+### Offer Letter
 ![CognoRise Infotech Offer Letter](path/to/cognorise_offer_letter.jpg)
 
 
 
-### Certifications
+# Certifications
 
-# 1. Mentorness Certifications
-## Data Analyst
+## 1. Mentorness Certifications
+### Data Analyst
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/ad0b521e-852d-46b7-ac7f-64f433a06c49)
 
-## Machine Learning
+### Machine Learning
 ![Mentorness Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b3f646df-98c2-476c-ac9e-408f6c472551)
 
 
-# 2. The Sparks Foundation Certifications
-## Data Science and Business Analytics
+## 2. The Sparks Foundation Certifications
+### Data Science and Business Analytics
 ![The Sparks Foundation Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/42970252-2bb8-4689-a248-99098f0394a5)
 
-# 3. Prodigy Infotech Certifications
-## Data Science Intern
+## 3. Prodigy Infotech Certifications
+### Data Science Intern
 ![Prodigy Infotech Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/162ecf2e-195b-43cd-b895-11cf6be12e6a)
 
-# 4. CognoRise Infotech Certifications
-## Certifications
+## 4. CognoRise Infotech Certifications
+### Certifications
 ![CognoRise Infotech Certifications](path/to/cognorise_certifications.jpg)
 
-# 5. Almabetter Certifications
-## Certifications
+## 5. Almabetter Certifications
+### Certifications
 ![Almabetter Certifications](path/to/almabetter_certifications.jpg)
 
 
 
-### Letters of Recommendation
+# Letters of Recommendation
 
-# 1. The Sparks Foundation Letter Of Recommendation
-## Data Science and Business Analytics
+## 1. The Sparks Foundation Letter Of Recommendation
+### Data Science and Business Analytics
 ![The Sparks Foundation Letter Of Recommendation](https://github.com/Allan122/allan-s_portfolio/assets/45638226/f7a30508-b18e-4997-8445-af50c192639e)
 
-# 2. Prodigy Infotech Letter Of Recommendation
-## Data Science Intern
+## 2. Prodigy Infotech Letter Of Recommendation
+### Data Science Intern
 ![Prodigy Infotech Letter Of Recommendation](https://github.com/Allan122/allan-s_portfolio/assets/45638226/5de5796e-b58e-4427-84c4-76162e25c7bd)
 
 ---
