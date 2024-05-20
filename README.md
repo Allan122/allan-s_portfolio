@@ -323,8 +323,9 @@ This project aims to offer valuable insights into the dynamics of the 2023 Crick
 ![World Cup 2023](https://github.com/Allan122/Mentorness/assets/45638226/8640d8be-7172-4af6-9d78-0950ce6d7b8f)
 
 
+
 ##### Prediction using Supervised ML
-## Prediction-using-Supervised-ML
+## Project 5: Prediction-using-Supervised-ML
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
 **Project Overview**
@@ -333,8 +334,22 @@ The "Prediction using Supervised ML" project is designed to leverage supervised 
 
 ![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/4f4f1bfc-77c1-4541-8618-5eb6c48b83c6)
 
+
 ##### Prediction using Unsupervised ML
-<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+## Project 6: Prediction using Unsupervised ML
+### Prediction using Unsupervised ML
+<p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Unsupervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
+
+In this project, I applied unsupervised machine learning techniques to uncover patterns and segment data into meaningful clusters. The key methods used include K-Means clustering, hierarchical clustering, and Principal Component Analysis (PCA). These techniques helped identify natural groupings within the data, providing valuable insights without prior labels.
+
+#### Key Highlights:
+- **Objective**: Discover and interpret hidden patterns in the data.
+- **Techniques**: K-Means clustering, hierarchical clustering, PCA.
+- **Tools Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn.
+- **Outcome**: Successful identification and visualization of data clusters for enhanced data understanding.
+
+![image](https://github.com/Allan122/allan-s_portfolio/assets/45638226/e10b212d-4038-453e-83e0-2667f7f93695)
+
 
 ##### Exploratory Data Analysis Retail
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
