@@ -44,17 +44,29 @@
         <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences, and projects.</b></div>
         <!-- About Me Section -->
          <div class="about-me">
-    <h2>About Me</h2>
-    <p>Hello, I am [Your Name], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [Your Degree] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.</p>
-    
-    <p>My academic background has equipped me with the skills to extract meaningful insights from data, perform statistical analysis, and build predictive models. I am proficient in programming languages like Python, SQL, and R, and have experience working with data visualization tools such as Tableau and Matplotlib.</p>
-    
-    <p>During my academic journey and personal projects, I have honed my problem-solving abilities, critical thinking skills, and attention to detail. I am adept at working with large datasets, conducting exploratory data analysis, and implementing machine learning algorithms to solve real-world challenges.</p>
-    
-    <p>As I embark on this exciting career path, I am eager to leverage my skills and knowledge to contribute effectively to data-driven decision-making processes, derive actionable insights, and drive business outcomes. I am committed to continuous learning and staying updated with the latest advancements in the field of data analytics and data science.</p>
-    
-    <p>I am actively seeking opportunities to collaborate with passionate teams, tackle complex problems, and make a meaningful impact through data-driven solutions. Let's connect and explore how I can add value to your organization!</p>
-</div>   
+    <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
+    <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+            Hello, I am [Your Name], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [Your Degree] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.
+        </p>
+        
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+            My academic background has equipped me with the skills to extract meaningful insights from data, perform statistical analysis, and build predictive models. I am proficient in programming languages like Python, SQL, and R, and have experience working with data visualization tools such as Tableau and Matplotlib.
+        </p>
+        
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+            During my academic journey and personal projects, I have honed my problem-solving abilities, critical thinking skills, and attention to detail. I am adept at working with large datasets, conducting exploratory data analysis, and implementing machine learning algorithms to solve real-world challenges.
+        </p>
+        
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+            As I embark on this exciting career path, I am eager to leverage my skills and knowledge to contribute effectively to data-driven decision-making processes, derive actionable insights, and drive business outcomes. I am committed to continuous learning and staying updated with the latest advancements in the field of data analytics and data science.
+        </p>
+        
+        <p style="font-size: 16px; color: #555; line-height: 1.6;">
+            I am actively seeking opportunities to collaborate with passionate teams, tackle complex problems, and make a meaningful impact through data-driven solutions. Let's connect and explore how I can add value to your organization!
+        </p>
+    </div>
+</div>
     </div>
 </body>
 </html>
