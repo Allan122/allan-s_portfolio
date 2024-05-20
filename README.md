@@ -181,6 +181,8 @@
 ## Machine Learning Article on INTRODUCTION TO MACHINE LEARNING: A BEGINNERS GUIDE TO UNDERSTANDING MACHINE LEARNING AND ITS PRACTICAL APPLICATIONS
 <p>For accessing my article in my portfolio. You can refer to or download my <a href="https://drive.google.com/file/d/1ldpv3IEUedWkOHSHX6Ao_3RyV3Boi4Ll/view?usp=sharing"> "Article"</a> .</p>
 
+---
+
 ##### Product Dissection "Case Study"
 # Casestudy
 ## Linkedin - Transforming Professional Networking
@@ -188,6 +190,7 @@
 
 <p>You can watch my presentation video on my portfolio. You can refer to or download my <a href="https://drive.google.com/file/d/1ChlHslb5HWz51t1FWDtr8XEXHoim-DIM/view?usp=sharing"> "Video"</a> 📹.</p>
 
+---
 
 # Tableau Projects
 ## Project 1: Netflix Dashboard 
@@ -331,6 +334,8 @@ The global terrorism Tableau dashboard provides a comprehensive overview of terr
 The Indian Agricultural Analysis Tableau dashboard provides an in-depth overview of agricultural trends and metrics in India. It includes interactive visualizations such as charts and graphs with real time analysis.
 
 ![Indian Agriculture Analysis Dashboard](https://github.com/Allan122/Mentorness/assets/45638226/468d2f31-f127-4ba2-b162-1ee036f54716)
+
+---
 
 # Python Projects using Colab/ Jupyter Notebook
 ##### Introduction to Computer Programming
@@ -604,6 +609,7 @@ This project involves creating a Ping Pong game in Python with an AI opponent. T
 ## Project 19: Unsupervised ML - Book Recommendation System Capstone - End to End Machine Learning
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/Prediction-using-Supervised-ML.git"> "GitHub"</a> 🕵🏻.</p>
 
+---
 
 # SQL Project
 
@@ -620,6 +626,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ## Overview
 ![Screenshot 2024-03-11 132511](https://github.com/Allan122/allan-s_portfolio/assets/45638226/fd1b8f6e-a944-4bc4-9c2f-8c079d4a554e)
 
+---
 
 # Offer Letters
 
@@ -643,7 +650,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ### Offer Letter
 ![CognoRise Infotech Offer Letter](path/to/cognorise_offer_letter.jpg)
 
-
+---
 
 # Certifications
 
@@ -671,7 +678,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ### Certifications
 ![Almabetter Certifications](path/to/almabetter_certifications.jpg)
 
-
+---
 
 # Letters of Recommendation
 
