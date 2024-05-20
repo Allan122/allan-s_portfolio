@@ -696,3 +696,22 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ![Prodigy Infotech Letter Of Recommendation](https://github.com/Allan122/allan-s_portfolio/assets/45638226/5de5796e-b58e-4427-84c4-76162e25c7bd)
 
 ---
+
+### Professional Summary
+
+I am a proactive and detail-oriented data analyst with a strong background in data analytics, machine learning, and statistical analysis. I excel at transforming complex data into actionable insights and possess excellent problem-solving skills. My goal is to leverage my expertise in data-driven decision-making to contribute effectively to challenging projects and drive business success.
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-profile)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/your-profile)
+
+---
+
+### Thank You for Visiting!
+
+Thank you for taking the time to explore my portfolio. I am excited about potential opportunities and collaborations. Feel free to reach out for further discussions or inquiries. I look forward to connecting with you!
