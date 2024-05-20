@@ -47,11 +47,11 @@
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
-            Hello, I am [Your Name], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [Your Degree] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.
+            Hello, I am [Allan Cheerakunnil Alex], a passionate and adaptable professional excited about embarking on a career journey in the field of data analytics and data science. As a recent graduate with a [MSc. Data Science] degree, I have developed a strong foundation in data analysis, statistics, and machine learning through rigorous coursework and hands-on projects.
         </p>
         
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
-            My academic background has equipped me with the skills to extract meaningful insights from data, perform statistical analysis, and build predictive models. I am proficient in programming languages like Python, SQL, and R, and have experience working with data visualization tools such as Tableau and Matplotlib.
+            My academic background has equipped me with the skills to extract meaningful insights from data, perform statistical analysis, and build predictive models. I am proficient in programming languages like Python, SQL and have experience working with data visualization tools such as Tableau, Power BI and Matplotlib.
         </p>
         
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
