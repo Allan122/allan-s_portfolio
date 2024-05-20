@@ -165,7 +165,6 @@
 ---
 
 ## ★ Conclusion
-[Thank You for Visiting!](#thank-you-for-visiting!)
 
 ---
 
