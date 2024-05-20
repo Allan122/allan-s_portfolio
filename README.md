@@ -41,7 +41,7 @@
         <div class="title">Data Analytics Portfolio</div>
         <div class="message">Welcome to My Portfolio!</div>
         <img src="https://github.com/Allan122/allan-s_portfolio/assets/45638226/a83bda7c-981b-47bd-9834-3f59d8a67471" alt="Portfolio Image" class="portfolio-img">
-        <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences, and projects.</b></div>
+        <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences and projects.</b></div>
         <!-- About Me Section -->
          <div class="about-me">
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
