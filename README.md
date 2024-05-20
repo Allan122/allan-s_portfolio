@@ -90,7 +90,7 @@
 5. [Exploratory Data Analysis on Sports IPL](#exploratory-data-analysis-on-sports-ipl)
 6. [Prediction using Decision Tree](#prediction-using-decision-tree)
 7. [Stock Market Prediction](#stock-market-prediction)
-8. [Timeline Analysis - Covid-19](#timeline-analysis-covid-19)
+8. [Timeline Analysis - Covid-19](#timeline-analysis---covid-19)
 
 ### Prodigy Infotech
 1. [World Bank Population](#world-bank-population)
@@ -209,7 +209,7 @@ The COVID-19 Vaccination Status Dashboard is a powerful analytical tool designed
 
 
 
-##### Timeline Analysis - Covid-19
+#### Timeline Analysis - Covid-19
 ## Project 4: Covid-19 in India Dashboard
 <p>For accessing the project with the dataset in my portfolio, you can refer to or download it from my <a href="https://github.com/Allan122/TabCovid19India.git"> "GitHub"</a> 🕵🏻.</p>
 
