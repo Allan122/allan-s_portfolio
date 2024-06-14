@@ -710,7 +710,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ## 4. CognoRise Infotech Certifications
 ### Certifications
-![CognoRise Infotech Certifications](path/to/cognorise_certifications.jpg)
+![Completion Certificate](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b5cfeeba-b645-45c9-bb7b-8f95b380bba7)
 
 ## 5. Almabetter Certifications
 ### Certifications
