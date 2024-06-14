@@ -709,7 +709,7 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ![Prodigy Infotech Certifications](https://github.com/Allan122/allan-s_portfolio/assets/45638226/162ecf2e-195b-43cd-b895-11cf6be12e6a)
 
 ## 4. CognoRise Infotech Certifications
-### Certifications
+### Artificial Intelligence
 ![Completion Certificate](https://github.com/Allan122/allan-s_portfolio/assets/45638226/b5cfeeba-b645-45c9-bb7b-8f95b380bba7)
 
 ## 5. Almabetter Certifications
