@@ -700,7 +700,8 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ## 4. CognoRise Infotech Offer Letter
 ### Offer Letter
-![CognoRise Infotech Offer Letter](path/to/cognorise_offer_letter.jpg)
+![Allan Cheerakunnil Alex Artificial Intelligence](https://github.com/user-attachments/assets/60a51de0-821b-475b-a6ef-9c3157809200)
+
 
 ---
 
