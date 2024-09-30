@@ -100,8 +100,8 @@
 
 
 
-### Apprenticeship Program
-- **Almabetter** (15 months)
+### Master's Program (Expected 2026)
+- **Almabetter** 
 
 ---
 
@@ -156,6 +156,19 @@
 1. [Offer Letters](#offer-letters)
 2. [Certifications](#certifications)
 3. [Letters of Recommendation](#letters-of-recommendation)
+
+---
+
+## ★ Relevant Coursework Certificates
+
+1. [What is Data Science](#IBM)
+2. [Introduction to Data Science](#CISCO)
+3. [Data Analytics Essentials](#CISCO)
+4. [Business Intelligence using PowerBI](#Skill-Nation)
+5. [Python course from Basic to Advanced (2024)](#Udemy)
+6. [Python 3](#Programming-Hub)
+7. [Generative AI](#SAP)
+8. [Introduction to Statistics](#Stanford-Online)
 
 ---
 
@@ -730,6 +743,11 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
+# IBM
+
+## What is Data Science?
+
+---
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allan-c-alex143/)
