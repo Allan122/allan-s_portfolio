@@ -743,9 +743,12 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ---
 
-# IBM
+# Relevant Coursework Certificates
 
+# IBM
 ## What is Data Science?
+[Coursera IBM certificate.pdf](https://github.com/user-attachments/files/17193527/Coursera.IBM.certificate.pdf)
+
 
 ---
 ## Connect with Me
