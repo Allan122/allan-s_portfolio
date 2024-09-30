@@ -47,7 +47,7 @@
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
-            Hello, I’m Allan Cheerakunnil Alex, a passionate data science graduate eager to begin my career in data analytics. I have built a comprehensive portfolio showcasing my skills, hands-on experience, projects, and professional achievements in data analysis, statistics, and machine learning. I’m excited to apply my knowledge and contribute as a fresher in the field.
+            Hello, I’m Allan Cheerakunnil Alex, a passionate data science postgraduate eager to begin my career in data analytics. I have built a comprehensive portfolio showcasing my skills, hands-on experience, projects, and professional achievements in data analysis, statistics, and machine learning. I’m excited to apply my knowledge and contribute as a fresher in the field.
         </p>
         
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
