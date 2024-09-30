@@ -727,7 +727,11 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 
 ## 5. Almabetter Certifications
 ### Certifications
-![Almabetter Certifications](path/to/almabetter_certifications.jpg)
+![Code Storm Challenge](https://github.com/user-attachments/assets/fc5caad4-676b-4c36-bcc0-aad161fa32e2)
+![EDA - Dashboard](https://github.com/user-attachments/assets/a011086f-2d31-4822-ba01-5a9eca7fae07)
+![EDA](https://github.com/user-attachments/assets/6261ed8c-8ed2-4a03-904d-ce8adcf0f3ae)
+![Relational Database Casestudy](https://github.com/user-attachments/assets/a640bfc9-a68b-48b1-8f8d-2004661d05ae)
+
 
 ---
 
