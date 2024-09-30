@@ -185,22 +185,24 @@
 
 ### Technical Skills
 <ul>
-  <li><strong>Programming Languages:</strong> Proficiency in Python for data analysis and machine learning.</li>
-  <li><strong>Machine Learning:</strong> Knowledge of machine learning algorithms and techniques, including supervised and unsupervised learning.</li>
-  <li><strong>Statistical Analysis:</strong> Advanced understanding of statistical methods and their applications.</li>
-  <li><strong>Data Wrangling:</strong> Expertise in cleaning, transforming, and organizing data for analysis.</li>
-  <li><strong>Big Data Technologies:</strong> Familiarity with Hadoop, Spark, or similar technologies for handling large datasets.</li>
-  <li><strong>Data Visualization:</strong> Skills in creating visual representations of data using tools like Matplotlib, Seaborn, Tableau and Power BI.</li>
-  <li><strong>SQL:</strong> Proficiency in querying relational databases.</li>
- <li><strong>Excel:</strong> Advanced skills in Microsoft Excel for data analysis, including functions, pivot tables, and macros.</li>
+  <li><strong>Programming Languages:</strong> Proficient in Python for data analysis and machine learning, as demonstrated in my portfolio.</li>
+  <li><strong>Machine Learning:</strong> Familiar with machine learning algorithms and techniques, including supervised and unsupervised learning, showcased through hands-on projects.</li>
+  <li><strong>Statistical Analysis:</strong> Advanced understanding of statistical methods and their applications, illustrated in my data analytics portfolio.</li>
+  <li><strong>Data Wrangling:</strong> Expertise in cleaning, transforming, and organizing data for analysis, as applied in various projects.</li>
+  <li><strong>Big Data Technologies:</strong> Basic familiarity with Hadoop, Spark, and similar technologies for handling large datasets.</li>
+  <li><strong>Data Visualization:</strong> Skilled in creating visual representations of data using tools like Matplotlib, Seaborn, Tableau, and Power BI, with examples in my portfolio.</li>
+  <li><strong>SQL:</strong> Proficient in querying relational databases, with practical applications showcased in my projects.</li>
+  <li><strong>Excel:</strong> Advanced skills in Microsoft Excel for data analysis, including functions, pivot tables, and macros, demonstrated through coursework and projects.</li>
 </ul>
+
 
 ### Analytical Skills
 <ul>
-  <li><strong>Predictive Analytics:</strong> Ability to build and validate predictive models to forecast future trends.</li>
-  <li><strong>Deep Learning:</strong> Understanding of neural networks and deep learning frameworks like TensorFlow or PyTorch.</li>
-  <li><strong>EDA (Exploratory Data Analysis):</strong> Skills in uncovering patterns and insights through data exploration.</li>
+  <li><strong>Predictive Analytics:</strong> Proficient in building and validating predictive models to forecast future trends, demonstrated through practical projects in my portfolio.</li>
+  <li><strong>Deep Learning:</strong> Understanding of neural networks and familiarity with deep learning frameworks like TensorFlow and PyTorch, showcased in hands-on applications.</li>
+  <li><strong>EDA (Exploratory Data Analysis):</strong> Skilled in uncovering patterns and insights through data exploration, with examples included in my data analytics portfolio.</li>
 </ul>
+
 
 ### Soft Skills
 <ul>
