@@ -44,8 +44,6 @@
         <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences and projects.</b></div>
         <!-- About Me Section -->
          <div class="about-me">
-
-            
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
