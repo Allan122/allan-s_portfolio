@@ -161,14 +161,14 @@
 
 ## ★ Relevant Coursework Certificates
 
-1. [What is Data Science](#IBM)
-2. [Introduction to Data Science](#CISCO-1)
-3. [Data Analytics Essentials](#CISCO-2)
-4. [Business Intelligence using PowerBI](#Skill-Nation)
-5. [Python course from Basic to Advanced (2024)](#Udemy)
-6. [Python 3](#Programming-Hub)
-7. [Generative AI](#SAP)
-8. [Introduction to Statistics](#Stanford-Online)
+1. [IBM](#IBM)
+2. [CISCO-1](#CISCO-1)
+3. [CISCO-2](#CISCO-2)
+4. [Skill-Nation](#Skill-Nation)
+5. [Udemy](#Udemy)
+6. [Programming-Hub](#Programming-Hub)
+7. [SAP](#SAP)
+8. [Stanford-Online](#Stanford-Online)
 
 ---
 
