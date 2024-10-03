@@ -161,14 +161,14 @@
 
 ## ★ Relevant Coursework Certificates
 
-1. [IBM](#IBM)
-2. [CISCO-1](#CISCO-1)
-3. [CISCO-2](#CISCO-2)
-4. [Skill-Nation](#Skill-Nation)
-5. [Udemy](#Udemy)
-6. [Programming-Hub](#Programming-Hub)
-7. [SAP](#SAP)
-8. [Stanford-Online](#Stanford-Online)
+1. [What is Data Science (IBM)](#ibm)
+2. [Introduction to Data Science (CISCO)](#cisco-1)
+3. [Data Analytics Essentials (CISCO)](#cisco-2)
+4. [Business Intelligence using PowerBI (Skill-Nation)](#skill-nation)
+5. [Python Course from Basic to Advanced (Udemy)](#udemy)
+6. [Python 3 (Programming Hub)](#programming-hub)
+7. [Generative AI (SAP)](#sap)
+8. [Introduction to Statistics (Stanford-Online)](#stanford-online)
 
 ---
 
@@ -750,48 +750,48 @@ The dataset encompasses various aspects of hotel bookings, including reservation
 ---
 
 # Relevant Coursework Certificates
-# IBM
+## IBM
 
 ## What is Data Science?
 ![Coursera IBM certificate](https://github.com/user-attachments/assets/cdd26849-f8d9-40bc-8f71-dea5bafff55d)
 
-# CISCO-1
+## CISCO-1
 
 ## Introduction to Data Science
 ![Introduction_to_Data_Science](https://github.com/user-attachments/assets/857f0e1c-9b83-4ac7-aa6b-cc34b00cce32)
 
 ![introduction-to-data-science](https://github.com/user-attachments/assets/49b18b0c-becf-45f6-a3f2-33db0ee59c8d)
 
-# CISCO-2
+## CISCO-2
 
 ## Data Analytics Essentials
 ![Data Analytics Certification By CISCO](https://github.com/user-attachments/assets/b2421308-75e9-4f45-845a-e3b8a7395cf4)
 
 ![data-analytics-essentials](https://github.com/user-attachments/assets/264f0d38-1642-4658-af60-23131789639c)
 
-# Skill-Nation
+## Skill-Nation
 
 ## Business Intelligence using PowerBI
 ![Skill-Nation-Power-BI](https://github.com/user-attachments/assets/1b795e7e-62d8-4330-a9b1-ded694d0d814)
 
-# Udemy
+## Udemy
 
 ## Python Basic-Advance 2024
 ![Completion of python cource from bas-adv 2024](https://github.com/user-attachments/assets/d5306575-b172-4939-9bd0-5b5c080ad1c2)
 
-# Programming-Hub
+## Programming-Hub
 
 ## Python 3
 ![Python 3 Certificate](https://github.com/user-attachments/assets/673a052f-1a47-4e6d-8737-5beeb4b90767)
 
-# SAP
+## SAP
 
 ## Generative AI
 ![genai1_ConfirmationOfParticipatioN](https://github.com/user-attachments/assets/7f7a3b1a-2198-4179-9214-f961db2ba646)
 ![genai1_RecordOfAchievement](https://github.com/user-attachments/assets/5e613417-c439-4646-89c9-04e65efb93fe)
 ![genai1_open_badge](https://github.com/user-attachments/assets/5d260fbd-b1c5-4da2-8f08-44609abbfe46)
 
-# Stanford-Online
+## Stanford-Online
 
 ## Introduction to Statistics
 ![Stanford Online Certificate](https://github.com/user-attachments/assets/145a2e96-ff7f-4a7c-9f1b-8054e75bd110)
