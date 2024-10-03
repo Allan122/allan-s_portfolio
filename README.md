@@ -45,17 +45,6 @@
         <!-- About Me Section -->
          <div class="about-me">
 
-
-        <script async src="https://allan122.github.io/allan-s_portfolio/"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'YOUR_TRACKING_ID');
-</script>
-
-
             
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
