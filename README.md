@@ -45,19 +45,16 @@
         <!-- About Me Section -->
          <div class="about-me">
 
-         <script>
-    // Get the visit count from local storage or set it to 0
-    let visitCount = localStorage.getItem('visitCount') ? parseInt(localStorage.getItem('visitCount')) : 0;
 
-    // Increment the visit count
-    visitCount += 1;
+        <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    // Update the visit count in local storage
-    localStorage.setItem('visitCount', visitCount);
-
-    // Display the visit count on the page
-    document.getElementById('visitCount').textContent = visitCount;
+  gtag('config', 'YOUR_TRACKING_ID');
 </script>
+
 
             
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
