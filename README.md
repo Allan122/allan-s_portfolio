@@ -44,6 +44,22 @@
         <div class="description"><b>This portfolio showcases my journey in the field of data analytics, including skills, experiences and projects.</b></div>
         <!-- About Me Section -->
          <div class="about-me">
+
+         <script>
+    // Get the visit count from local storage or set it to 0
+    let visitCount = localStorage.getItem('visitCount') ? parseInt(localStorage.getItem('visitCount')) : 0;
+
+    // Increment the visit count
+    visitCount += 1;
+
+    // Update the visit count in local storage
+    localStorage.setItem('visitCount', visitCount);
+
+    // Display the visit count on the page
+    document.getElementById('visitCount').textContent = visitCount;
+</script>
+
+            
     <h2 style="font-size: 28px; color: #333; margin-bottom: 20px;">About Me</h2>
     <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
         <p style="font-size: 16px; color: #555; line-height: 1.6;">
