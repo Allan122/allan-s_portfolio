@@ -46,7 +46,7 @@
          <div class="about-me">
 
 
-        <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+        <script async src="https://allan122.github.io/allan-s_portfolio/"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
